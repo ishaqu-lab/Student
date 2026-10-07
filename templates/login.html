@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-5" style="max-width: 450px;">
+    <div class="card shadow-sm border-0">
+        <div class="card-body p-4">
+            <h3 class="card-title text-center mb-4">Login</h3>
+            
+            <form method="POST" action="{{ url_for('login') }}">
+                <div class="mb-3">
+                    <label for="username" class="form-label">Username</label>
+                    <input type="text" name="username" id="username" class="form-control" required autofocus>
+                </div>
+                
+                <div class="mb-3">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <label for="password" class="form-label mb-0">Password</label>
+                        <a href="{{ url_for('reset_request') }}" class="small text-decoration-none">Forgot Password?</a>
+                    </div>
+                    <input type="password" name="password" id="password" class="form-control mt-1" required>
+                </div>
+                
+                <button type="submit" class="btn btn-primary w-100 mb-3">Log In</button>
+            </form>
+            
+            <div class="text-center my-3 text-muted position-relative">
+                <hr>
+                <span class="bg-white px-2 text-muted small position-absolute top-50 start-50 translate-middle">OR</span>
+            </div>
+            
+            <a href="{{ url_for('google_login') }}" class="btn btn-outline-danger w-100 d-flex align-items-center justify-content-center gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-google" viewBox="0 0 16 16">
+                    <path d="M15.545 6.558a9.4 9.4 0 0 1 .139 1.626c0 2.434-.87 4.492-2.384 5.885h.002C11.978 15.292 10.158 16 8 16A8 8 0 1 1 8 0c2.42 0 4.492.84 6.091 2.372L12.545 4.01C11.381 2.91 9.8 2.316 8 2.316 4.86 2.316 2.316 4.86 2.316 8s2.544 5.684 5.684 5.684c2.26 0 3.868-.927 4.68-1.742.63-.63 1.01-1.503 1.15-2.613H8V6.558h7.545z"/>
+                </svg>
+                Log in with Google
+            </a>
+
+            <p class="text-center mt-4 mb-0 small">
+                Don't have an account? <a href="{{ url_for('register') }}" class="text-decoration-none">Register here</a>
+            </p>
+        </div>
+    </div>
+</div>
+{% endblock %}

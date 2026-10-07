@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+{% block title %}Analysis Dashboard{% endblock %}
+{% block content %}
+<div class="page-heading">
+    <div>
+        <h1>Analysis Dashboard</h1>
+        <p>Student feedback sentiment analysis overview</p>
+    </div>
+    <div class="heading-actions">
+        <span class="session-badge"><i class="bi bi-calendar3"></i> 2026 / 2027 Session</span>
+        <a href="{{ url_for('upload') }}" class="btn-primary-custom"><i class="bi bi-cloud-arrow-up"></i> Upload CSV</a>
+    </div>
+</div>
+
+<div class="filter-card">
+    <div class="filter-label"><i class="bi bi-funnel"></i> Category Selection</div>
+    <form method="get" action="{{ url_for('analysis') }}" class="filter-form">
+        <select name="category" class="form-select">
+            <option>All Categories</option>
+            {% for c in categories %}<option>{{ c }}</option>{% endfor %}
+        </select>
+        <button class="btn-outline-custom">View Analysis</button>
+    </form>
+</div>
+
+<div class="stats-grid">
+    <div class="card-panel overview-card">
+        <div class="card-title-row">
+            <div>
+                <h3>Sentiment Results Overview</h3>
+                <span>Overall distribution of analysed feedback</span>
+            </div>
+            <i class="bi bi-pie-chart-fill card-icon"></i>
+        </div>
+        <div class="overview-body">
+            <div class="chart-wrap">
+                <canvas id="sentimentChart"></canvas>
+            </div>
+            <div class="legend-list">
+                {% for s in ['Positive', 'Neutral', 'Negative'] %}
+                <div class="legend-row">
+                    <span class="legend-dot {{ s|lower }}"></span>
+                    <span>{{ s }}</span>
+                    <strong>{{ data.percentages[s] }}%</strong>
+                </div>
+                {% endfor %}
+                <div class="total-box">
+                    <span>Total Feedback</span>
+                    <strong>{{ "{:,}".format(data.total) }}</strong>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-panel accuracy-card">
+        <div class="card-title-row">
+            <div>
+                <h3>Accuracy Percentage Display</h3>
+                <span>Current model evaluation</span>
+            </div>
+            <i class="bi bi-bullseye card-icon"></i>
+        </div>
+        {% set acc = metadata.get('metrics', {}).get('accuracy', 0) %}
+        <div class="accuracy-value">{{ "%.1f"|format(acc * 100) }}<small>%</small></div>
+        <div class="accuracy-label">Overall Accuracy</div>
+        <div class="accuracy-meta">
+            <span class="trend"><i class="bi bi-check-circle-fill"></i> Tested on 20% holdout</span>
+            <span>Multinomial NB</span>
+        </div>
+        <div class="progress-custom"><div style="width: {{ acc * 100 }}%"></div></div>
+        <small class="muted">Last model evaluation: {{ metadata.get('metrics', {}).get('test_size', 0) }} test records</small>
+    </div>
+</div>
+
+<div class="card-panel mt-4">
+    <div class="card-title-row">
+        <div>
+            <h3>Feedback Results</h3>
+            <span>Recent analysed student feedback</span>
+        </div>
+        <a href="{{ url_for('analysis') }}" class="view-all">View All <i class="bi bi-arrow-right"></i></a>
+    </div>
+    <div class="table-responsive">
+        <table class="table feedback-table align-middle">
+            <thead><tr><th>ID</th><th>Feedback Text</th><th>Category</th><th>Sentiment</th><th>Date</th></tr></thead>
+            <tbody>
+            {% for row in recent %}
+            <tr>
+                <td>#{{ row.ID }}</td>
+                <td class="feedback-text">{{ row["Feedback Text"] }}</td>
+                <td><span class="category-badge">{{ row.Category }}</span></td>
+                <td><span class="sentiment-badge {{ row.Sentiment|lower }}">{{ row.Sentiment }}</span></td>
+                <td>{{ row.Date }}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+const sentimentData = {{ data.sentiment_counts|tojson }};
+new Chart(document.getElementById('sentimentChart'), {
+    type: 'doughnut',
+    data: {
+        labels: ['Positive', 'Neutral', 'Negative'],
+        datasets: [{ data: [
+            sentimentData.Positive || 0,
+            sentimentData.Neutral || 0,
+            sentimentData.Negative || 0
+        ]}]
+    },
+    options: {
+        responsive: true,
+        cutout: '68%',
+        plugins: { legend: { display: false } }
+    }
+});
+</script>
+{% endblock %}

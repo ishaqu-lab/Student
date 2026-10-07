@@ -1,0 +1,601 @@
+ID,Feedback Text,Category,Sentiment,Date,Predicted Sentiment
+2607,"During the practical periods, the lecturer uses the standard course notes which can affect the learning experience.",Teacher Feedback,Neutral,2026-02-03,Neutral
+1443,"During the assessment period, the laboratory has some useful aspects, but has some required equipment unavailable.",Laboratory,Negative,2026-07-01,Negative
+588,"During the scheduled activities, the lecturer Some parts could be improved, but the overall experience is satisfactory.",Teacher Feedback,Positive,2026-05-11,Positive
+778,"During the middle of the semester, the lecturer explains difficult ideas clearly especially for students who need extra clarification.",Teacher Feedback,Positive,2026-05-15,Positive
+1115,"During the scheduled activities, the laboratory The arrangement has some weaknesses, although it is still useful overall.",Laboratory,Positive,2026-02-14,Positive
+790,"In the present semester, the examination follows the announced format which is worth reviewing.",Examination Pattern,Neutral,2026-03-13,Neutral
+2471,"Over the past few weeks, the laboratory Some parts work well and others do not, so there is no clear overall effect.",Laboratory,Neutral,2026-03-05,Neutral
+2260,"Over the past few weeks, the laboratory There are useful and difficult parts, so I would describe the experience as mixed.",Laboratory,Neutral,2026-05-28,Neutral
+619,"From my experience this term, the examination Some changes would help, but I would keep the current arrangement.",Examination Pattern,Positive,2026-02-14,Positive
+611,"For many students, the examination uses a reasonable time allocation which has been noticeable recently.",Examination Pattern,Positive,2026-07-23,Positive
+2777,"During the current course, the course content uses examples that make concepts easier to understand especially for students who need extra clarification.",Course Content,Positive,2026-05-25,Positive
+685,"In the present semester, the laboratory has equipment that is useful for practical work particularly in the later weeks.",Laboratory,Positive,2026-06-13,Positive
+1722,"Across the semester, the lecturer explains difficult ideas clearly especially for students who need extra clarification.",Teacher Feedback,Positive,2026-03-07,Positive
+1978,"During the practical periods, the library lists available resources in the catalogue especially when several students need the same resource.",Library Facilities,Neutral,2026-03-22,Neutral
+1162,"From the student viewpoint, the examination uses a reasonable time allocation especially for students who need extra clarification.",Examination Pattern,Positive,2026-07-02,Positive
+2949,"While completing the course, the lecturer gives useful comments on assignments which is worth reviewing.",Teacher Feedback,Positive,2026-01-23,Positive
+418,"From the activities observed, the lecturer has both useful and difficult aspects, and follows the planned teaching schedule.",Teacher Feedback,Neutral,2026-07-11,Neutral
+2627,"From what I observed, the lecturer is not perfect, but gives useful comments on assignments.",Teacher Feedback,Positive,2026-10-28,Positive
+1510,"For many students, the library has relevant textbooks which has been consistent this term.",Library Facilities,Positive,2026-09-28,Positive
+1613,"In my recent experience, the laboratory Not everything works perfectly, but I am generally satisfied.",Laboratory,Positive,2026-10-16,Positive
+2516,"From the latest sessions, the laboratory provides a suitable environment especially when deadlines are close.",Laboratory,Positive,2026-03-23,Positive
+1553,"Based on classroom activities, the course content The arrangement has some weaknesses, although it is still useful overall.",Course Content,Positive,2026-04-24,Positive
+2381,"From the latest sessions, the examination uses the instructions given before the examination particularly when the class is large.",Examination Pattern,Neutral,2026-06-15,Neutral
+1472,"From the student viewpoint, the examination Some changes would help, but I would keep the current arrangement.",Examination Pattern,Positive,2026-09-21,Positive
+2434,"For this academic session, the laboratory Some parts could be improved, but the overall experience is satisfactory.",Laboratory,Positive,2026-03-06,Positive
+1477,"During the middle of the semester, the lecturer explains difficult ideas clearly especially during difficult topics.",Teacher Feedback,Positive,2026-03-26,Positive
+1205,"In my recent experience, the examination includes questions outside the taught material which may influence student satisfaction.",Examination Pattern,Negative,2026-09-13,Negative
+590,"From the feedback I have seen, the examination Some changes would help, but I would keep the current arrangement.",Examination Pattern,Positive,2026-06-17,Positive
+1504,"In recent activities, the library lacks updated textbooks especially during the more demanding parts of the semester.",Library Facilities,Negative,2026-06-22,Negative
+2694,"Across the semester, the examination uses a reasonable time allocation particularly during practical or assessment periods.",Examination Pattern,Positive,2026-07-09,Positive
+1491,"From the student viewpoint, the examination Not everything works perfectly, but I am generally satisfied.",Examination Pattern,Positive,2026-02-21,Positive
+1617,"In the present semester, the lecturer uses the standard course notes particularly when students need quick support.",Teacher Feedback,Neutral,2026-06-08,Neutral
+1462,"From the feedback I have seen, the course content contains parts that need updating especially during difficult topics.",Course Content,Negative,2026-09-20,Negative
+1853,"During recent classes, the course content contains parts that need updating which is worth reviewing.",Course Content,Negative,2026-07-18,Negative
+1067,"In the current semester, the course content provides materials relevant to the programme which is noticeable in busy weeks.",Course Content,Positive,2026-08-12,Positive
+1105,"In my recent experience, the examination follows the announced format especially for students who need extra clarification.",Examination Pattern,Neutral,2026-10-20,Neutral
+2015,"During the last few classes, the library Some parts could be improved, but the overall experience is satisfactory.",Library Facilities,Positive,2026-06-11,Positive
+92,"From the student viewpoint, the course content provides materials relevant to the programme particularly in the later weeks.",Course Content,Positive,2026-02-20,Positive
+1990,"From the feedback I have seen, the examination Not everything works perfectly, but I am generally satisfied.",Examination Pattern,Positive,2026-04-09,Positive
+1141,"During the scheduled activities, the course content uses examples that make concepts easier to understand particularly during practical or assessment periods.",Course Content,Positive,2026-01-14,Positive
+1125,"While completing the course, the library provides a comfortable reading environment especially for students attending every session.",Library Facilities,Positive,2026-07-25,Positive
+1018,"In the current semester, the laboratory Some parts could be improved, but the overall experience is satisfactory.",Laboratory,Positive,2026-07-09,Positive
+953,"During the first few weeks, the library is not perfect, but has relevant textbooks.",Library Facilities,Positive,2026-01-02,Positive
+845,"During the assessment period, the course content provides materials relevant to the programme especially during difficult topics.",Course Content,Positive,2026-10-15,Positive
+934,"From recent observations, the laboratory supports the practical exercises especially when several students need the same resource.",Laboratory,Positive,2026-02-03,Positive
+162,"During the first few weeks, the examination Not everything works perfectly, but I am generally satisfied.",Examination Pattern,Neutral,2026-10-03,Positive
+65,"From the latest sessions, the laboratory The arrangement has some weaknesses, although it is still useful overall.",Laboratory,Positive,2026-03-03,Positive
+983,"During normal teaching weeks, the examination The arrangement has strengths and weaknesses, and my view is neither positive nor negative.",Examination Pattern,Neutral,2026-01-20,Neutral
+2668,"In the present semester, the lecturer explains difficult ideas clearly especially for students who need extra clarification.",Teacher Feedback,Positive,2026-07-21,Positive
+1302,"For many students, the laboratory is used during scheduled practical periods which is worth reviewing.",Laboratory,Neutral,2026-04-17,Neutral
+379,"During the scheduled activities, the laboratory supports the practical exercises which affects how easily students can work.",Laboratory,Positive,2026-01-10,Positive
+1929,"From what I observed, the lecturer encourages students to ask questions particularly during the examination period.",Teacher Feedback,Positive,2026-07-24,Positive
+1051,"During normal teaching weeks, the laboratory has some useful aspects, but has some required equipment unavailable.",Laboratory,Negative,2026-06-02,Negative
+2058,"From the latest sessions, the library lacks updated textbooks especially for students attending every session.",Library Facilities,Negative,2026-06-16,Negative
+1571,"While completing the course, the lecturer encourages students to ask questions especially during difficult topics.",Teacher Feedback,Positive,2026-01-08,Positive
+2159,"Based on recent sessions, the laboratory There are benefits, but I would change the current arrangement.",Laboratory,Negative,2026-05-10,Negative
+946,"Based on recent sessions, the library offers useful assistance from library staff which can affect the learning experience.",Library Facilities,Positive,2026-09-28,Positive
+1525,"Over the past few weeks, the course content provides materials relevant to the programme which is noticeable in busy weeks.",Course Content,Positive,2026-04-07,Positive
+2070,"During regular sessions, the course content contains parts that need updating which has been noticeable recently.",Course Content,Negative,2026-05-26,Negative
+248,"In recent activities, the library offers useful assistance from library staff particularly when the class is large.",Library Facilities,Positive,2026-09-23,Positive
+2444,"From recent observations, the library has relevant textbooks especially for students who need extra clarification.",Library Facilities,Positive,2026-06-15,Positive
+2584,"During the current academic session, the examination provides clear instructions particularly when the workload is high.",Examination Pattern,Positive,2026-10-22,Positive
+1779,"From the feedback I have seen, the course content There are both advantages and limitations, with no strong preference either way.",Course Content,Neutral,2026-06-22,Neutral
+487,"From the student viewpoint, the library provides a comfortable reading environment which has been consistent this term.",Library Facilities,Positive,2026-07-04,Positive
+1556,"Over the past few weeks, the library lacks updated textbooks which has been consistent this term.",Library Facilities,Negative,2026-02-13,Negative
+290,"During the middle of the semester, the lecturer encourages students to ask questions which can affect the learning experience.",Teacher Feedback,Positive,2026-06-09,Positive
+665,"Across the semester, the examination reflects what was emphasised in class especially during difficult topics.",Examination Pattern,Positive,2026-08-06,Positive
+656,"From my experience this term, the examination Some parts work well and others do not, so there is no clear overall effect.",Examination Pattern,Neutral,2026-04-09,Neutral
+542,"During regular sessions, the laboratory provides a suitable environment especially for students using the service regularly.",Laboratory,Positive,2026-05-19,Positive
+2605,"Based on classroom activities, the course content There are useful and difficult parts, so I would describe the experience as mixed.",Course Content,Neutral,2026-02-09,Neutral
+512,"Across the semester, the library allows students to borrow books through the normal process especially when deadlines are close.",Library Facilities,Neutral,2026-01-06,Neutral
+649,"During the practical periods, the library has some useful aspects, but lacks updated textbooks.",Library Facilities,Negative,2026-09-19,Negative
+598,"From the activities observed, the library has some reference materials unavailable especially for students who need extra clarification.",Library Facilities,Negative,2026-04-18,Negative
+1165,"For many students, the library provides a comfortable reading environment which may influence student satisfaction.",Library Facilities,Positive,2026-10-03,Positive
+2984,"In the present semester, the course content uses examples that do not explain harder topics especially during the more demanding parts of the semester.",Course Content,Negative,2026-01-09,Negative
+405,"During the practical periods, the course content There are useful and difficult parts, so I would describe the experience as mixed.",Course Content,Neutral,2026-01-26,Neutral
+2518,"During regular sessions, the course content Some changes would help, but I would keep the current arrangement.",Course Content,Positive,2026-08-18,Positive
+2412,"From my experience this term, the laboratory has some required equipment unavailable which is noticeable in busy weeks.",Laboratory,Negative,2026-04-04,Negative
+308,"During the middle of the semester, the lecturer explains difficult ideas clearly which has been noticeable recently.",Teacher Feedback,Positive,2026-09-10,Positive
+1959,"For many students, the library The arrangement has some weaknesses, although it is still useful overall.",Library Facilities,Positive,2026-03-25,Positive
+1530,"During the middle of the semester, the laboratory the current approach does not meet most of my needs.",Laboratory,Positive,2026-04-24,Positive
+508,"From the latest sessions, the lecturer encourages students to ask questions particularly when students need quick support.",Teacher Feedback,Positive,2026-05-13,Positive
+353,"From the student viewpoint, the course content overall, I am dissatisfied with the way this is handled.",Course Content,Negative,2026-10-20,Negative
+2828,"During the last few classes, the laboratory Some changes would help, but I would keep the current arrangement.",Laboratory,Positive,2026-06-08,Positive
+2977,"From my experience this term, the library has some reference materials unavailable which is noticeable in busy weeks.",Library Facilities,Negative,2026-07-28,Negative
+2110,"In the present semester, the library has relevant textbooks particularly during the examination period.",Library Facilities,Positive,2026-01-08,Positive
+640,"While completing the course, the course content gives little attention to some important concepts which has been consistent this term.",Course Content,Negative,2026-08-26,Negative
+422,"Across the semester, the lecturer the service has been useful despite a few limitations.",Teacher Feedback,Positive,2026-10-17,Positive
+1914,"During the last few classes, the lecturer uses the standard course notes which can affect the learning experience.",Teacher Feedback,Neutral,2026-04-19,Neutral
+1416,"During the first few weeks, the examination uses the instructions given before the examination especially for students who need extra clarification.",Examination Pattern,Neutral,2026-07-15,Neutral
+178,"Over the past few weeks, the laboratory has both useful and difficult aspects, and is used during scheduled practical periods.",Laboratory,Neutral,2026-10-02,Neutral
+1843,"During the scheduled activities, the library The arrangement has strengths and weaknesses, and my view is neither positive nor negative.",Library Facilities,Neutral,2026-05-16,Neutral
+1077,"During the practical periods, the laboratory the arrangement has been acceptable and generally helpful.",Laboratory,Positive,2026-02-14,Positive
+1037,"For many students, the course content connects the topics well across the semester especially during difficult topics.",Course Content,Positive,2026-10-16,Positive
+2795,"Across the semester, the lecturer explains difficult ideas clearly which may influence student satisfaction.",Teacher Feedback,Positive,2026-02-12,Positive
+2883,"During the middle of the semester, the course content includes the scheduled topics particularly during practical or assessment periods.",Course Content,Neutral,2026-03-02,Neutral
+2775,"During regular sessions, the library has too few seats for students especially when deadlines are close.",Library Facilities,Negative,2026-06-04,Negative
+1365,"During the last few classes, the course content uses examples that do not explain harder topics particularly when the workload is high.",Course Content,Positive,2026-09-26,Negative
+894,"During the scheduled activities, the lecturer encourages students to ask questions which is noticeable in busy weeks.",Teacher Feedback,Positive,2026-01-13,Positive
+1678,"From the activities observed, the lecturer has both useful and difficult aspects, and uses the standard course notes.",Teacher Feedback,Negative,2026-08-06,Neutral
+1960,"During regular sessions, the laboratory has equipment that is useful for practical work especially for students attending every session.",Laboratory,Positive,2026-02-19,Positive
+1151,"During the scheduled activities, the examination I can work effectively with the current arrangement.",Examination Pattern,Positive,2026-01-10,Positive
+1239,"In the present semester, the course content uses examples that make concepts easier to understand especially for students attending every session.",Course Content,Positive,2026-08-18,Positive
+1541,"During the first few weeks, the library Some parts work well and others do not, so there is no clear overall effect.",Library Facilities,Neutral,2026-06-16,Neutral
+1210,"In my recent experience, the lecturer overall, I am satisfied with the way this is handled.",Teacher Feedback,Positive,2026-06-05,Positive
+413,"During the current academic session, the lecturer Some parts work well and others do not, so there is no clear overall effect.",Teacher Feedback,Neutral,2026-01-21,Neutral
+1789,"During the scheduled activities, the lecturer I would be comfortable keeping the current arrangement.",Teacher Feedback,Positive,2026-02-03,Positive
+2980,"Across the semester, the lecturer Not everything works perfectly, but I am generally satisfied.",Teacher Feedback,Positive,2026-10-02,Positive
+1497,"From my experience this term, the examination Not everything works perfectly, but I am generally satisfied.",Examination Pattern,Positive,2026-09-12,Positive
+1106,"During normal teaching weeks, the laboratory follows the practical timetable which has been consistent this term.",Laboratory,Neutral,2026-10-05,Neutral
+1492,"During recent classes, the course content uses examples that make concepts easier to understand which may influence student satisfaction.",Course Content,Positive,2026-05-24,Positive
+1602,"Based on recent sessions, the lecturer encourages students to ask questions especially during difficult topics.",Teacher Feedback,Positive,2026-01-10,Positive
+1121,"For this academic session, the course content the experience has been better than I expected.",Course Content,Positive,2026-02-01,Positive
+2263,"During recent classes, the course content Some changes would help, but I would keep the current arrangement.",Course Content,Positive,2026-03-18,Positive
+2856,"From the student viewpoint, the examination follows the announced format particularly during practical or assessment periods.",Examination Pattern,Neutral,2026-05-10,Neutral
+2104,"Based on recent sessions, the lecturer moves through difficult ideas too quickly which is worth reviewing.",Teacher Feedback,Positive,2026-07-26,Negative
+2191,"From my experience this term, the course content includes the scheduled topics especially for students who need extra clarification.",Course Content,Neutral,2026-01-08,Neutral
+800,"Based on recent sessions, the examination Some parts could be improved, but the overall experience is satisfactory.",Examination Pattern,Positive,2026-06-10,Positive
+338,"Across the semester, the laboratory has equipment that is useful for practical work which has been noticeable recently.",Laboratory,Positive,2026-03-22,Positive
+1219,"From what I observed, the examination the current approach does not meet most of my needs.",Examination Pattern,Negative,2026-08-28,Positive
+1230,"From what I observed, the course content connects the topics well across the semester which has been noticeable recently.",Course Content,Positive,2026-04-23,Positive
+277,"For this academic session, the laboratory is used during scheduled practical periods which can affect the learning experience.",Laboratory,Neutral,2026-03-02,Neutral
+1672,"During the practical periods, the laboratory provides a suitable environment particularly when several activities occur together.",Laboratory,Positive,2026-03-26,Positive
+1248,"Over the past few weeks, the course content includes the scheduled topics particularly when the class is large.",Course Content,Negative,2026-09-12,Neutral
+1713,"For many students, the lecturer the service has been useful despite a few limitations.",Teacher Feedback,Positive,2026-04-06,Positive
+156,"During the assessment period, the library lists available resources in the catalogue particularly during the examination period.",Library Facilities,Neutral,2026-07-01,Neutral
+1597,"From my experience this term, the lecturer assigns work after selected topics which may influence student satisfaction.",Teacher Feedback,Neutral,2026-08-04,Neutral
+451,"From what I observed, the lecturer does not give enough feedback particularly during practical or assessment periods.",Teacher Feedback,Negative,2026-02-16,Negative
+701,"For many students, the laboratory supports the practical exercises particularly during practical or assessment periods.",Laboratory,Positive,2026-05-08,Positive
+2123,"In the recent weeks, the laboratory the small issues have not outweighed the benefits.",Laboratory,Positive,2026-10-04,Positive
+1496,"In the recent weeks, the library is not perfect, but offers useful assistance from library staff.",Library Facilities,Positive,2026-03-03,Positive
+1846,"In recent activities, the examination has some useful aspects, but uses a time allocation that is too short.",Examination Pattern,Negative,2026-10-16,Negative
+1677,"From the student viewpoint, the library allows students to borrow books through the normal process which affects how easily students can work.",Library Facilities,Neutral,2026-03-19,Neutral
+237,"During the current academic session, the laboratory supports the practical exercises particularly during practical or assessment periods.",Laboratory,Positive,2026-03-10,Positive
+2908,"During the practical periods, the library is not perfect, but offers useful assistance from library staff.",Library Facilities,Positive,2026-03-05,Positive
+1898,"From recent observations, the library offers useful assistance from library staff especially during difficult topics.",Library Facilities,Positive,2026-03-22,Positive
+216,"During the current course, the lecturer Not everything works perfectly, but I am generally satisfied.",Teacher Feedback,Positive,2026-02-16,Positive
+2851,"During the assessment period, the lecturer has both useful and difficult aspects, and uses the standard course notes.",Teacher Feedback,Neutral,2026-01-12,Neutral
+20,"From recent observations, the lecturer explains difficult ideas clearly particularly when students need quick support.",Teacher Feedback,Positive,2026-09-13,Positive
+1324,"From recent observations, the course content uses examples that do not explain harder topics which has been noticeable recently.",Course Content,Negative,2026-06-15,Negative
+748,"From what I observed, the lecturer Some parts work as expected, but I am generally dissatisfied.",Teacher Feedback,Negative,2026-05-22,Negative
+2783,"During recent classes, the examination the service has been neither especially good nor especially poor.",Examination Pattern,Neutral,2026-05-05,Neutral
+2941,"From the student viewpoint, the examination uses a reasonable time allocation especially during difficult topics.",Examination Pattern,Positive,2026-03-07,Positive
+2804,"For this academic session, the lecturer follows the planned teaching schedule especially during the more demanding parts of the semester.",Teacher Feedback,Neutral,2026-03-14,Neutral
+2744,"During regular sessions, the lecturer gives useful comments on assignments especially during difficult topics.",Teacher Feedback,Positive,2026-05-10,Positive
+2201,"For this academic session, the examination reflects what was emphasised in class particularly when students need quick support.",Examination Pattern,Positive,2026-01-17,Positive
+1708,"During the last few classes, the lecturer Not everything works perfectly, but I am generally satisfied.",Teacher Feedback,Positive,2026-09-15,Positive
+2640,"Based on recent sessions, the examination is not perfect, but reflects what was emphasised in class.",Examination Pattern,Positive,2026-02-20,Positive
+951,"During the last few classes, the examination follows the announced format especially for students who need extra clarification.",Examination Pattern,Neutral,2026-03-15,Neutral
+2229,"For this academic session, the library the arrangement has been acceptable and generally helpful.",Library Facilities,Positive,2026-09-24,Positive
+1547,"While completing the course, the lecturer follows the planned teaching schedule particularly in the later weeks.",Teacher Feedback,Neutral,2026-05-03,Neutral
+717,"Across the semester, the examination The arrangement has strengths and weaknesses, and my view is neither positive nor negative.",Examination Pattern,Neutral,2026-01-16,Neutral
+1103,"Based on classroom activities, the lecturer Not everything works perfectly, but I am generally satisfied.",Teacher Feedback,Positive,2026-08-01,Positive
+511,"Across the semester, the lecturer explains difficult ideas clearly which is noticeable in busy weeks.",Teacher Feedback,Positive,2026-09-12,Positive
+2401,"During recent classes, the course content includes the scheduled topics especially when deadlines are close.",Course Content,Neutral,2026-04-07,Neutral
+2407,"From the feedback I have seen, the library The arrangement has some weaknesses, although it is still useful overall.",Library Facilities,Positive,2026-07-15,Positive
+1946,"In the recent weeks, the laboratory the service has been neither especially good nor especially poor.",Laboratory,Neutral,2026-09-25,Neutral
+2991,"From the latest sessions, the course content The arrangement has some weaknesses, although it is still useful overall.",Course Content,Positive,2026-08-21,Positive
+919,"From what I observed, the course content covers the listed units particularly in the later weeks.",Course Content,Neutral,2026-10-14,Neutral
+2323,"From the feedback I have seen, the laboratory I would not keep the current arrangement without changes.",Laboratory,Negative,2026-03-16,Positive
+1782,"From what I observed, the examination provides unclear instructions particularly when the class is large.",Examination Pattern,Positive,2026-04-07,Negative
+184,"In recent activities, the examination uses a reasonable time allocation which is worth reviewing.",Examination Pattern,Positive,2026-03-13,Positive
+10,"During the scheduled activities, the course content contains parts that need updating especially during difficult topics.",Course Content,Negative,2026-09-10,Negative
+533,"Based on recent sessions, the lecturer Some changes would help, but I would keep the current arrangement.",Teacher Feedback,Positive,2026-09-10,Positive
+722,"Over the past few weeks, the library has relevant textbooks especially for students attending every session.",Library Facilities,Positive,2026-04-26,Positive
+2089,"From the activities observed, the course content overall, I am satisfied with the way this is handled.",Course Content,Positive,2026-08-08,Positive
+826,"During the first few weeks, the examination is not perfect, but uses a reasonable time allocation.",Examination Pattern,Neutral,2026-08-13,Positive
+43,"While completing the course, the course content uses examples that make concepts easier to understand which has been consistent this term.",Course Content,Positive,2026-05-25,Positive
+1984,"In the recent weeks, the laboratory provides a suitable environment especially during the more demanding parts of the semester.",Laboratory,Positive,2026-02-25,Positive
+2162,"During the current course, the library has both useful and difficult aspects, and allows students to borrow books through the normal process.",Library Facilities,Neutral,2026-01-18,Neutral
+2218,"Over the past few weeks, the library provides a comfortable reading environment which has been noticeable recently.",Library Facilities,Positive,2026-02-12,Positive
+2809,"During the practical periods, the laboratory Some parts could be improved, but the overall experience is satisfactory.",Laboratory,Positive,2026-09-10,Positive
+1335,"During recent classes, the lecturer Some parts could be improved, but the overall experience is satisfactory.",Teacher Feedback,Positive,2026-06-02,Positive
+2589,"In my recent experience, the course content follows the approved outline which has been noticeable recently.",Course Content,Neutral,2026-04-14,Neutral
+101,"For this academic session, the lecturer explains difficult ideas clearly especially for students using the service regularly.",Teacher Feedback,Positive,2026-09-14,Positive
+159,"From the latest sessions, the lecturer encourages students to ask questions especially for students attending every session.",Teacher Feedback,Positive,2026-05-26,Positive
+1506,"During the practical periods, the course content Some changes would help, but I would keep the current arrangement.",Course Content,Positive,2026-01-24,Positive
+907,"From the latest sessions, the library has relevant textbooks especially when several students need the same resource.",Library Facilities,Positive,2026-06-08,Positive
+143,"During the assessment period, the course content uses examples that make concepts easier to understand which may influence student satisfaction.",Course Content,Positive,2026-10-08,Positive
+536,"For many students, the library has relevant textbooks especially for students who need extra clarification.",Library Facilities,Positive,2026-03-18,Positive
+19,"During the first few weeks, the course content uses examples that make concepts easier to understand especially for students who need extra clarification.",Course Content,Positive,2026-02-26,Positive
+820,"For many students, the library has both useful and difficult aspects, and allows students to borrow books through the normal process.",Library Facilities,Neutral,2026-01-27,Neutral
+2271,"From the feedback I have seen, the lecturer the service has been useful despite a few limitations.",Teacher Feedback,Positive,2026-06-08,Positive
+2299,"During the last few classes, the lecturer leaves questions unanswered particularly when the class is large.",Teacher Feedback,Negative,2026-06-23,Negative
+2430,"Based on recent sessions, the course content I can work with the current arrangement for now.",Course Content,Neutral,2026-08-06,Positive
+81,"In the current semester, the lecturer leaves questions unanswered particularly when the class is large.",Teacher Feedback,Negative,2026-07-24,Negative
+1971,"In recent activities, the lecturer encourages students to ask questions especially for students attending every session.",Teacher Feedback,Positive,2026-09-24,Positive
+838,"From the latest sessions, the lecturer follows the planned teaching schedule particularly when the workload is high.",Teacher Feedback,Neutral,2026-10-18,Neutral
+2389,"In the recent weeks, the examination uses the instructions given before the examination particularly during the examination period.",Examination Pattern,Neutral,2026-05-27,Neutral
+2455,"For many students, the laboratory provides a suitable environment particularly during the examination period.",Laboratory,Positive,2026-10-02,Positive
+1658,"During the practical periods, the laboratory provides a suitable environment particularly when the class is large.",Laboratory,Positive,2026-02-12,Positive
+1747,"For many students, the course content uses examples that make concepts easier to understand which affects how easily students can work.",Course Content,Positive,2026-08-20,Positive
+1450,"During the last few classes, the examination reflects what was emphasised in class especially during the more demanding parts of the semester.",Examination Pattern,Positive,2026-03-23,Positive
+1626,"In the present semester, the laboratory Some parts could be improved, but the overall experience is satisfactory.",Laboratory,Positive,2026-10-25,Positive
+400,"From the latest sessions, the course content uses examples that do not explain harder topics which is noticeable in busy weeks.",Course Content,Negative,2026-09-12,Negative
+129,"For many students, the laboratory follows the practical timetable especially during the more demanding parts of the semester.",Laboratory,Neutral,2026-10-17,Neutral
+745,"During the last few classes, the lecturer gives useful comments on assignments especially during difficult topics.",Teacher Feedback,Positive,2026-04-13,Positive
+2327,"From the feedback I have seen, the laboratory provides a suitable environment which affects how easily students can work.",Laboratory,Positive,2026-06-17,Positive
+2367,"During regular sessions, the laboratory has equipment that is useful for practical work especially when deadlines are close.",Laboratory,Positive,2026-09-18,Positive
+851,"During the middle of the semester, the laboratory provides a suitable environment especially when several students need the same resource.",Laboratory,Positive,2026-10-07,Positive
+875,"From the latest sessions, the examination follows the announced format which is worth reviewing.",Examination Pattern,Neutral,2026-08-02,Neutral
+1326,"In my recent experience, the examination reflects what was emphasised in class particularly in the later weeks.",Examination Pattern,Positive,2026-10-11,Positive
+1996,"During the first few weeks, the library has relevant textbooks particularly when the class is large.",Library Facilities,Positive,2026-08-15,Positive
+759,"In the present semester, the course content connects the topics well across the semester which has been consistent this term.",Course Content,Positive,2026-04-28,Positive
+1875,"Based on classroom activities, the course content the arrangement has been acceptable and generally helpful.",Course Content,Positive,2026-05-25,Positive
+2244,"During the current course, the library allows students to borrow books through the normal process especially during the more demanding parts of the semester.",Library Facilities,Neutral,2026-08-15,Neutral
+1253,"Based on classroom activities, the library Some parts work well and others do not, so there is no clear overall effect.",Library Facilities,Neutral,2026-05-12,Neutral
+2392,"From the latest sessions, the laboratory is not perfect, but has equipment that is useful for practical work.",Laboratory,Positive,2026-10-26,Positive
+2662,"From recent observations, the lecturer assigns work after selected topics which has been noticeable recently.",Teacher Feedback,Neutral,2026-08-20,Neutral
+2400,"During regular sessions, the library is not perfect, but offers useful assistance from library staff.",Library Facilities,Positive,2026-01-03,Positive
+2121,"During the scheduled activities, the lecturer does not give enough feedback especially when deadlines are close.",Teacher Feedback,Negative,2026-06-22,Negative
+2963,"Based on recent sessions, the examination The arrangement has some weaknesses, although it is still useful overall.",Examination Pattern,Positive,2026-08-07,Positive
+2335,"From the student viewpoint, the course content contains parts that need updating particularly when several activities occur together.",Course Content,Negative,2026-07-06,Negative
+2185,"During the assessment period, the examination I would not keep the current arrangement without changes.",Examination Pattern,Negative,2026-01-16,Positive
+1999,"During the scheduled activities, the lecturer is not perfect, but explains difficult ideas clearly.",Teacher Feedback,Positive,2026-02-10,Positive
+136,"During the scheduled activities, the course content includes the scheduled topics particularly when students need quick support.",Course Content,Negative,2026-02-06,Neutral
+79,"From the feedback I have seen, the lecturer follows the planned teaching schedule which has been noticeable recently.",Teacher Feedback,Neutral,2026-06-01,Neutral
+1882,"From recent observations, the course content gives little attention to some important concepts which may influence student satisfaction.",Course Content,Negative,2026-01-05,Negative
+832,"During regular sessions, the library has too few seats for students particularly when several activities occur together.",Library Facilities,Negative,2026-07-05,Negative
+2009,"During the current academic session, the course content provides materials relevant to the programme especially when deadlines are close.",Course Content,Positive,2026-06-08,Positive
+1666,"For this academic session, the library lists available resources in the catalogue which has been noticeable recently.",Library Facilities,Neutral,2026-08-07,Neutral
+2759,"In my recent experience, the lecturer gives useful comments on assignments which has been consistent this term.",Teacher Feedback,Positive,2026-02-20,Positive
+1130,"In the present semester, the lecturer Some parts could be improved, but the overall experience is satisfactory.",Teacher Feedback,Positive,2026-09-13,Positive
+948,"From the feedback I have seen, the laboratory is used during scheduled practical periods especially for students who need extra clarification.",Laboratory,Neutral,2026-03-04,Neutral
+2597,"During the practical periods, the laboratory provides a suitable environment which is noticeable in busy weeks.",Laboratory,Positive,2026-09-21,Positive
+2252,"Over the past few weeks, the examination Some parts work well and others do not, so there is no clear overall effect.",Examination Pattern,Neutral,2026-01-23,Neutral
+1202,"From recent observations, the library lists available resources in the catalogue especially during the more demanding parts of the semester.",Library Facilities,Neutral,2026-03-15,Neutral
+1133,"During the middle of the semester, the course content follows the approved outline which affects how easily students can work.",Course Content,Neutral,2026-01-03,Neutral
+930,"Based on classroom activities, the library I can work effectively with the current arrangement.",Library Facilities,Positive,2026-04-15,Positive
+2281,"In recent activities, the lecturer explains difficult ideas clearly particularly when the class is large.",Teacher Feedback,Positive,2026-07-22,Positive
+2023,"In the present semester, the examination uses a reasonable time allocation particularly when students need quick support.",Examination Pattern,Positive,2026-02-11,Positive
+2432,"During the current academic session, the laboratory The arrangement has strengths and weaknesses, and my view is neither positive nor negative.",Laboratory,Neutral,2026-06-16,Neutral
+40,"During the current course, the laboratory follows the practical timetable especially when several students need the same resource.",Laboratory,Neutral,2026-07-23,Neutral
+1873,"While completing the course, the course content The arrangement has some weaknesses, although it is still useful overall.",Course Content,Positive,2026-01-26,Positive
+824,"In recent activities, the course content connects the topics well across the semester especially during difficult topics.",Course Content,Positive,2026-07-24,Positive
+2947,"During the assessment period, the examination The arrangement has some weaknesses, although it is still useful overall.",Examination Pattern,Positive,2026-04-18,Positive
+2695,"Across the semester, the laboratory the service has been useful despite a few limitations.",Laboratory,Positive,2026-05-23,Positive
+2431,"In the current semester, the library Some changes would help, but I would keep the current arrangement.",Library Facilities,Positive,2026-07-11,Positive
+1818,"For this academic session, the library provides a comfortable reading environment especially for students attending every session.",Library Facilities,Positive,2026-02-08,Positive
+1126,"During regular sessions, the course content uses examples that make concepts easier to understand which has been noticeable recently.",Course Content,Positive,2026-09-28,Positive
+1328,"During the last few classes, the course content provides materials relevant to the programme which is noticeable in busy weeks.",Course Content,Positive,2026-05-15,Positive
+1793,"In the present semester, the course content Some parts could be improved, but the overall experience is satisfactory.",Course Content,Neutral,2026-04-08,Positive
+244,"During the practical periods, the laboratory has equipment that is useful for practical work especially for students attending every session.",Laboratory,Positive,2026-07-16,Positive
+941,"During the current course, the examination The arrangement has strengths and weaknesses, and my view is neither positive nor negative.",Examination Pattern,Neutral,2026-02-25,Neutral
+181,"During the middle of the semester, the library the arrangement seems ordinary overall.",Library Facilities,Neutral,2026-09-12,Neutral
+1656,"Based on recent sessions, the laboratory follows the practical timetable particularly during the examination period.",Laboratory,Neutral,2026-07-18,Neutral
+1314,"During normal teaching weeks, the library the arrangement has been acceptable and generally helpful.",Library Facilities,Positive,2026-08-03,Positive
+1542,"Based on recent sessions, the course content connects the topics well across the semester especially for students using the service regularly.",Course Content,Negative,2026-10-23,Positive
+444,"From recent observations, the library provides a comfortable reading environment which can affect the learning experience.",Library Facilities,Positive,2026-04-21,Positive
+441,"During normal teaching weeks, the course content follows the approved outline especially when several students need the same resource.",Course Content,Neutral,2026-05-14,Neutral
+233,"While completing the course, the lecturer gives useful comments on assignments particularly during practical or assessment periods.",Teacher Feedback,Positive,2026-08-17,Positive
+443,"For this academic session, the lecturer overall, I am satisfied with the way this is handled.",Teacher Feedback,Positive,2026-01-28,Positive
+1989,"During normal teaching weeks, the laboratory is not perfect, but supports the practical exercises.",Laboratory,Positive,2026-09-13,Positive
+2167,"Based on classroom activities, the lecturer There are some useful parts, but the overall experience is unsatisfactory.",Teacher Feedback,Negative,2026-08-04,Negative
+71,"From the latest sessions, the laboratory has systems that students use for exercises particularly when students need quick support.",Laboratory,Neutral,2026-08-05,Neutral
+692,"Over the past few weeks, the course content uses examples that make concepts easier to understand which is noticeable in busy weeks.",Course Content,Positive,2026-04-26,Positive
+2414,"During the scheduled activities, the laboratory has equipment that is useful for practical work especially for students using the service regularly.",Laboratory,Positive,2026-05-14,Positive
+2641,"During the last few classes, the course content provides materials relevant to the programme especially for students who need extra clarification.",Course Content,Positive,2026-02-25,Positive
+586,"While completing the course, the examination uses a reasonable time allocation particularly in the later weeks.",Examination Pattern,Positive,2026-08-27,Positive
+2046,"During the practical periods, the course content includes the scheduled topics particularly when several activities occur together.",Course Content,Neutral,2026-08-12,Neutral
+2304,"During the current academic session, the library provides a comfortable reading environment especially for students using the service regularly.",Library Facilities,Positive,2026-04-13,Positive
+997,"Over the past few weeks, the course content Some parts work well and others do not, so there is no clear overall effect.",Course Content,Neutral,2026-10-01,Neutral
+2780,"During the last few classes, the examination Not everything works perfectly, but I am generally satisfied.",Examination Pattern,Positive,2026-07-13,Positive
+428,"From recent observations, the laboratory is used during scheduled practical periods particularly when the workload is high.",Laboratory,Neutral,2026-07-09,Neutral
+1113,"During the last few classes, the laboratory there is enough support for me to complete the work.",Laboratory,Positive,2026-10-24,Positive
+768,"During the first few weeks, the library provides a comfortable reading environment which is noticeable in busy weeks.",Library Facilities,Positive,2026-08-11,Positive
+1337,"During the assessment period, the library The arrangement has strengths, although the problems are still significant.",Library Facilities,Negative,2026-02-20,Negative
+2358,"During recent classes, the library provides a comfortable reading environment especially for students attending every session.",Library Facilities,Positive,2026-01-01,Positive
+634,"Based on recent sessions, the laboratory has some required equipment unavailable which may influence student satisfaction.",Laboratory,Negative,2026-08-14,Negative
+391,"During recent classes, the examination includes questions outside the taught material especially for students using the service regularly.",Examination Pattern,Negative,2026-09-28,Negative
+26,"During the current academic session, the course content uses examples that do not explain harder topics especially when several students need the same resource.",Course Content,Positive,2026-10-10,Negative
+2091,"Across the semester, the examination Some parts could be improved, but the overall experience is satisfactory.",Examination Pattern,Positive,2026-10-11,Positive
+1645,"From recent observations, the course content Some changes would help, but I would keep the current arrangement.",Course Content,Positive,2026-05-12,Positive
+2590,"For many students, the laboratory follows the practical timetable especially for students using the service regularly.",Laboratory,Negative,2026-02-17,Neutral
+1769,"Over the past few weeks, the examination The arrangement has strengths, although the problems are still significant.",Examination Pattern,Negative,2026-09-08,Negative
+1897,"During the current course, the library has some useful aspects, but has too few seats for students.",Library Facilities,Negative,2026-07-20,Negative
+1308,"From what I observed, the lecturer explains difficult ideas clearly especially during difficult topics.",Teacher Feedback,Positive,2026-05-08,Positive
+2149,"In the current semester, the laboratory follows the practical timetable especially for students who need extra clarification.",Laboratory,Neutral,2026-10-18,Neutral
+2241,"During the middle of the semester, the course content connects the topics well across the semester especially for students attending every session.",Course Content,Positive,2026-05-05,Positive
+1878,"In recent activities, the laboratory has too few working computers which is worth reviewing.",Laboratory,Negative,2026-10-03,Negative
+1555,"During regular sessions, the laboratory has equipment that is useful for practical work particularly when students need quick support.",Laboratory,Positive,2026-09-25,Positive
+1577,"During regular sessions, the lecturer explains difficult ideas clearly especially during difficult topics.",Teacher Feedback,Positive,2026-04-10,Positive
+869,"From what I observed, the laboratory has equipment problems that interrupt practical sessions especially during difficult topics.",Laboratory,Negative,2026-04-16,Negative
+2728,"For many students, the course content is not perfect, but connects the topics well across the semester.",Course Content,Positive,2026-10-07,Positive
+2926,"During recent classes, the examination There are some useful parts, but the overall experience is unsatisfactory.",Examination Pattern,Negative,2026-05-18,Negative
+1200,"In the recent weeks, the library allows students to borrow books through the normal process particularly during practical or assessment periods.",Library Facilities,Neutral,2026-09-26,Neutral
+1583,"During the first few weeks, the lecturer has both useful and difficult aspects, and assigns work after selected topics.",Teacher Feedback,Neutral,2026-01-15,Neutral
+2236,"During regular sessions, the examination provides unclear instructions particularly in the later weeks.",Examination Pattern,Negative,2026-05-22,Negative
+1730,"From recent observations, the library has relevant textbooks particularly during the examination period.",Library Facilities,Positive,2026-07-12,Positive
+1098,"While completing the course, the library offers useful assistance from library staff which affects how easily students can work.",Library Facilities,Positive,2026-09-07,Positive
+734,"From my experience this term, the examination the service has been neither especially good nor especially poor.",Examination Pattern,Neutral,2026-03-10,Neutral
+2093,"During recent classes, the library the arrangement has been acceptable and generally helpful.",Library Facilities,Positive,2026-01-08,Positive
+336,"During normal teaching weeks, the course content connects the topics well across the semester particularly when students need quick support.",Course Content,Positive,2026-09-09,Positive
+1780,"During the practical periods, the library has relevant textbooks which is worth reviewing.",Library Facilities,Positive,2026-07-13,Positive
+1728,"Based on recent sessions, the laboratory provides a suitable environment particularly in the later weeks.",Laboratory,Positive,2026-09-08,Positive
+2962,"During recent classes, the examination I would not keep the current arrangement without changes.",Examination Pattern,Negative,2026-01-07,Positive
+1083,"In the recent weeks, the examination is not perfect, but provides clear instructions.",Examination Pattern,Positive,2026-05-25,Positive
+1204,"Over the past few weeks, the course content connects the topics well across the semester which can affect the learning experience.",Course Content,Positive,2026-03-04,Positive
+2251,"In the current semester, the lecturer gives useful comments on assignments which affects how easily students can work.",Teacher Feedback,Positive,2026-09-28,Positive
+1922,"During regular sessions, the course content connects the topics well across the semester which may influence student satisfaction.",Course Content,Positive,2026-10-09,Positive
+2467,"From recent observations, the lecturer There are benefits, but I would change the current arrangement.",Teacher Feedback,Positive,2026-09-08,Negative
+2904,"Over the past few weeks, the examination reflects what was emphasised in class particularly when students need quick support.",Examination Pattern,Positive,2026-09-16,Positive
+2657,"During the middle of the semester, the library offers useful assistance from library staff particularly when the workload is high.",Library Facilities,Positive,2026-10-01,Positive
+2693,"From the latest sessions, the lecturer has both useful and difficult aspects, and uses the standard course notes.",Teacher Feedback,Neutral,2026-04-23,Neutral
+1311,"In the recent weeks, the lecturer The arrangement has strengths, although the problems are still significant.",Teacher Feedback,Negative,2026-02-23,Negative
+204,"During the practical periods, the laboratory The arrangement has some weaknesses, although it is still useful overall.",Laboratory,Positive,2026-03-02,Positive
+1881,"In the present semester, the examination The arrangement has some weaknesses, although it is still useful overall.",Examination Pattern,Positive,2026-02-18,Positive
+1641,"In the present semester, the library offers useful assistance from library staff particularly when the class is large.",Library Facilities,Positive,2026-02-23,Positive
+2476,"In recent activities, the course content uses examples that make concepts easier to understand particularly during the examination period.",Course Content,Positive,2026-01-17,Positive
+2985,"During recent classes, the examination overall, I have no strong view about the way this is handled.",Examination Pattern,Neutral,2026-05-20,Neutral
+1397,"In recent activities, the course content connects the topics well across the semester which has been consistent this term.",Course Content,Positive,2026-10-28,Positive
+2136,"In the current semester, the examination provides clear instructions which affects how easily students can work.",Examination Pattern,Positive,2026-06-09,Positive
+34,"During recent classes, the examination provides clear instructions particularly during practical or assessment periods.",Examination Pattern,Positive,2026-06-13,Positive
+1832,"Based on recent sessions, the lecturer encourages students to ask questions which can affect the learning experience.",Teacher Feedback,Positive,2026-06-03,Positive
+870,"From my experience this term, the library the service has been useful despite a few limitations.",Library Facilities,Positive,2026-03-03,Positive
+257,"During normal teaching weeks, the lecturer gives useful comments on assignments especially for students using the service regularly.",Teacher Feedback,Positive,2026-08-28,Positive
+461,"During normal teaching weeks, the library has relevant textbooks especially for students who need extra clarification.",Library Facilities,Positive,2026-02-15,Positive
+403,"In recent activities, the laboratory The arrangement has strengths, although the problems are still significant.",Laboratory,Negative,2026-05-10,Negative
+304,"While completing the course, the lecturer follows the planned teaching schedule which has been consistent this term.",Teacher Feedback,Neutral,2026-08-18,Neutral
+739,"Over the past few weeks, the laboratory has equipment that is useful for practical work particularly in the later weeks.",Laboratory,Positive,2026-06-12,Positive
+1386,"While completing the course, the library offers useful assistance from library staff particularly when the workload is high.",Library Facilities,Positive,2026-02-07,Positive
+54,"In the current semester, the examination uses a reasonable time allocation which can affect the learning experience.",Examination Pattern,Positive,2026-10-15,Positive
+2232,"In the present semester, the examination Some parts work well and others do not, so there is no clear overall effect.",Examination Pattern,Neutral,2026-06-27,Neutral
+2881,"During regular sessions, the course content provides materials relevant to the programme particularly during practical or assessment periods.",Course Content,Positive,2026-10-01,Positive
+1206,"Across the semester, the laboratory provides a suitable environment especially when several students need the same resource.",Laboratory,Positive,2026-07-11,Positive
+507,"Over the past few weeks, the lecturer encourages students to ask questions particularly when several activities occur together.",Teacher Feedback,Positive,2026-05-07,Positive
+163,"For many students, the library has too few seats for students which may influence student satisfaction.",Library Facilities,Positive,2026-06-13,Negative
+1099,"Based on recent sessions, the course content provides materials relevant to the programme which has been consistent this term.",Course Content,Positive,2026-10-04,Positive
+49,"During recent classes, the library has relevant textbooks especially during the more demanding parts of the semester.",Library Facilities,Positive,2026-06-09,Positive
+1972,"For many students, the lecturer the current approach meets most of my needs.",Teacher Feedback,Positive,2026-06-20,Positive
+1533,"During regular sessions, the examination provides clear instructions especially when several students need the same resource.",Examination Pattern,Positive,2026-08-12,Positive
+2122,"From recent observations, the laboratory has equipment that is useful for practical work especially for students using the service regularly.",Laboratory,Positive,2026-02-13,Positive
+663,"Based on recent sessions, the course content connects the topics well across the semester particularly when the class is large.",Course Content,Positive,2026-01-16,Positive
+2973,"During the assessment period, the course content has both useful and difficult aspects, and follows the approved outline.",Course Content,Neutral,2026-06-27,Neutral
+2348,"Across the semester, the course content gives little attention to some important concepts particularly during the examination period.",Course Content,Negative,2026-04-09,Negative
+2115,"During the current course, the course content is not perfect, but uses examples that make concepts easier to understand.",Course Content,Neutral,2026-10-05,Positive
+1011,"In the recent weeks, the lecturer explains difficult ideas clearly which is noticeable in busy weeks.",Teacher Feedback,Positive,2026-06-23,Positive
+317,"In my recent experience, the course content I would be comfortable keeping the current arrangement.",Course Content,Positive,2026-06-18,Positive
+2129,"Over the past few weeks, the library Some parts work as expected, but I am generally dissatisfied.",Library Facilities,Negative,2026-09-27,Negative
+2207,"During recent classes, the examination provides clear instructions which can affect the learning experience.",Examination Pattern,Positive,2026-06-10,Positive
+2738,"During normal teaching weeks, the examination The arrangement has some weaknesses, although it is still useful overall.",Examination Pattern,Positive,2026-10-10,Positive
+1072,"During recent classes, the examination Some parts could be improved, but the overall experience is satisfactory.",Examination Pattern,Positive,2026-08-13,Positive
+916,"In the present semester, the course content uses examples that make concepts easier to understand particularly during practical or assessment periods.",Course Content,Positive,2026-05-27,Positive
+2637,"For this academic session, the laboratory has equipment that is useful for practical work particularly when the class is large.",Laboratory,Positive,2026-07-02,Positive
+993,"From the student viewpoint, the library Some parts work well and others do not, so there is no clear overall effect.",Library Facilities,Neutral,2026-01-26,Neutral
+1928,"During the current academic session, the lecturer explains difficult ideas clearly which has been consistent this term.",Teacher Feedback,Positive,2026-01-16,Positive
+2141,"In recent activities, the lecturer explains difficult ideas clearly particularly when several activities occur together.",Teacher Feedback,Positive,2026-03-14,Positive
+1834,"Over the past few weeks, the examination reflects what was emphasised in class particularly when the workload is high.",Examination Pattern,Positive,2026-06-25,Positive
+1668,"From the feedback I have seen, the course content includes the scheduled topics which is noticeable in busy weeks.",Course Content,Neutral,2026-02-23,Neutral
+39,"In the recent weeks, the examination the service has been useful despite a few limitations.",Examination Pattern,Positive,2026-06-28,Positive
+2227,"From the student viewpoint, the examination uses a reasonable time allocation particularly when several activities occur together.",Examination Pattern,Positive,2026-09-26,Positive
+2647,"In the current semester, the laboratory is not perfect, but supports the practical exercises.",Laboratory,Neutral,2026-02-28,Positive
+208,"Over the past few weeks, the course content uses examples that make concepts easier to understand which affects how easily students can work.",Course Content,Positive,2026-03-14,Positive
+1753,"In the present semester, the laboratory There are both advantages and limitations, with no strong preference either way.",Laboratory,Neutral,2026-02-01,Neutral
+2347,"Over the past few weeks, the library has relevant textbooks especially when deadlines are close.",Library Facilities,Positive,2026-02-23,Positive
+1186,"From the activities observed, the examination There are both advantages and limitations, with no strong preference either way.",Examination Pattern,Neutral,2026-06-11,Neutral
+2798,"Based on classroom activities, the examination uses a time allocation that is too short especially during difficult topics.",Examination Pattern,Negative,2026-04-14,Negative
+1964,"During the scheduled activities, the library The arrangement has some weaknesses, although it is still useful overall.",Library Facilities,Neutral,2026-09-03,Positive
+1796,"During the assessment period, the library has both useful and difficult aspects, and lists available resources in the catalogue.",Library Facilities,Neutral,2026-08-08,Neutral
+1282,"During normal teaching weeks, the examination provides clear instructions particularly when several activities occur together.",Examination Pattern,Positive,2026-08-18,Positive
+325,"During the assessment period, the course content follows the approved outline especially for students using the service regularly.",Course Content,Neutral,2026-01-02,Neutral
+1236,"For many students, the course content uses examples that make concepts easier to understand which may influence student satisfaction.",Course Content,Positive,2026-05-05,Positive
+2451,"During recent classes, the lecturer does not give enough feedback especially when deadlines are close.",Teacher Feedback,Negative,2026-02-02,Negative
+2913,"During the assessment period, the library provides a comfortable reading environment which has been noticeable recently.",Library Facilities,Positive,2026-01-23,Positive
+2378,"In recent activities, the course content provides materials relevant to the programme particularly when the workload is high.",Course Content,Positive,2026-08-07,Positive
+1179,"Over the past few weeks, the laboratory is not perfect, but provides a suitable environment.",Laboratory,Positive,2026-09-27,Positive
+431,"From recent observations, the lecturer is not perfect, but explains difficult ideas clearly.",Teacher Feedback,Positive,2026-08-13,Positive
+1441,"During the middle of the semester, the lecturer gives useful comments on assignments particularly when several activities occur together.",Teacher Feedback,Positive,2026-04-12,Positive
+2408,"From recent observations, the laboratory has some required equipment unavailable especially when deadlines are close.",Laboratory,Negative,2026-08-04,Negative
+111,"From the feedback I have seen, the examination has both useful and difficult aspects, and covers several course units.",Examination Pattern,Neutral,2026-03-18,Neutral
+2561,"During the last few classes, the examination The arrangement has some weaknesses, although it is still useful overall.",Examination Pattern,Positive,2026-06-17,Positive
+1766,"During the current academic session, the laboratory There are some useful parts, but the overall experience is unsatisfactory.",Laboratory,Negative,2026-05-16,Negative
+1312,"During the last few classes, the lecturer explains difficult ideas clearly particularly in the later weeks.",Teacher Feedback,Positive,2026-10-27,Positive
+2816,"From my experience this term, the library has relevant textbooks which can affect the learning experience.",Library Facilities,Positive,2026-07-09,Positive
+1865,"For this academic session, the course content uses examples that make concepts easier to understand especially for students attending every session.",Course Content,Positive,2026-01-17,Positive
+2351,"Based on classroom activities, the course content contains parts that need updating which is worth reviewing.",Course Content,Negative,2026-02-17,Negative
+2754,"In recent activities, the lecturer encourages students to ask questions especially during the more demanding parts of the semester.",Teacher Feedback,Positive,2026-10-06,Positive
+2863,"From the latest sessions, the laboratory Some parts could be improved, but the overall experience is satisfactory.",Laboratory,Positive,2026-05-05,Positive
+702,"From what I observed, the examination is not perfect, but reflects what was emphasised in class.",Examination Pattern,Positive,2026-02-27,Positive
+1223,"During the first few weeks, the examination I can work effectively with the current arrangement.",Examination Pattern,Positive,2026-10-16,Positive
+1799,"In the current semester, the examination uses a time allocation that is too short which is worth reviewing.",Examination Pattern,Negative,2026-01-15,Positive
+2603,"During the practical periods, the course content The arrangement has strengths, although the problems are still significant.",Course Content,Negative,2026-01-16,Negative
+990,"During the scheduled activities, the laboratory has equipment that is useful for practical work particularly during the examination period.",Laboratory,Positive,2026-05-11,Positive
+2490,"During the assessment period, the examination reflects what was emphasised in class which can affect the learning experience.",Examination Pattern,Positive,2026-01-04,Positive
+282,"Based on recent sessions, the library is not perfect, but offers useful assistance from library staff.",Library Facilities,Positive,2026-05-24,Positive
+1183,"From what I observed, the lecturer gives useful comments on assignments which is worth reviewing.",Teacher Feedback,Positive,2026-04-03,Positive
+392,"Based on classroom activities, the lecturer assigns work after selected topics especially for students who need extra clarification.",Teacher Feedback,Negative,2026-06-13,Neutral
+97,"During the first few weeks, the library offers useful assistance from library staff particularly when the workload is high.",Library Facilities,Positive,2026-07-02,Positive
+195,"In my recent experience, the lecturer follows the planned teaching schedule particularly when students need quick support.",Teacher Feedback,Neutral,2026-01-27,Neutral
+2936,"For this academic session, the library provides a comfortable reading environment especially when several students need the same resource.",Library Facilities,Positive,2026-09-27,Positive
+2916,"From what I observed, the laboratory the experience has been better than I expected.",Laboratory,Positive,2026-09-17,Positive
+264,"From what I observed, the laboratory has equipment that is useful for practical work which has been noticeable recently.",Laboratory,Positive,2026-04-07,Positive
+1706,"In the recent weeks, the course content uses examples that do not explain harder topics which is worth reviewing.",Course Content,Negative,2026-08-05,Negative
+131,"Based on recent sessions, the laboratory is not perfect, but has equipment that is useful for practical work.",Laboratory,Positive,2026-04-17,Positive
+2909,"During the current course, the library has too few seats for students particularly when the class is large.",Library Facilities,Negative,2026-03-11,Negative
+1870,"From the activities observed, the library is not perfect, but has relevant textbooks.",Library Facilities,Positive,2026-03-24,Positive
+1155,"In my recent experience, the course content provides materials relevant to the programme particularly during practical or assessment periods.",Course Content,Positive,2026-02-09,Positive
+1502,"From recent observations, the lecturer Some changes would help, but I would keep the current arrangement.",Teacher Feedback,Positive,2026-04-06,Positive
+2262,"From my experience this term, the course content contains parts that need updating particularly when the workload is high.",Course Content,Positive,2026-03-16,Negative
+1227,"For many students, the lecturer the experience has been about what I expected.",Teacher Feedback,Neutral,2026-01-16,Neutral
+2223,"In recent activities, the examination uses a reasonable time allocation especially during difficult topics.",Examination Pattern,Positive,2026-08-07,Positive
+2887,"During the first few weeks, the lecturer encourages students to ask questions particularly during the examination period.",Teacher Feedback,Positive,2026-06-21,Positive
+1004,"During recent classes, the library provides a comfortable reading environment which is worth reviewing.",Library Facilities,Positive,2026-05-28,Positive
+296,"During the scheduled activities, the lecturer the current approach meets most of my needs.",Teacher Feedback,Positive,2026-01-26,Positive
+1590,"During normal teaching weeks, the examination the service has been useful despite a few limitations.",Examination Pattern,Positive,2026-02-22,Positive
+927,"From my experience this term, the lecturer There are useful and difficult parts, so I would describe the experience as mixed.",Teacher Feedback,Neutral,2026-08-20,Neutral
+751,"From the latest sessions, the library has relevant textbooks particularly in the later weeks.",Library Facilities,Positive,2026-05-21,Positive
+1192,"During the practical periods, the laboratory supports the practical exercises particularly during the examination period.",Laboratory,Positive,2026-09-28,Positive
+2428,"During the last few classes, the course content has some useful aspects, but gives little attention to some important concepts.",Course Content,Negative,2026-06-12,Negative
+2116,"From the activities observed, the lecturer follows the planned teaching schedule particularly when the workload is high.",Teacher Feedback,Neutral,2026-03-24,Neutral
+2140,"From what I observed, the course content uses examples that make concepts easier to understand especially for students attending every session.",Course Content,Positive,2026-03-25,Positive
+2924,"For many students, the lecturer leaves questions unanswered especially for students who need extra clarification.",Teacher Feedback,Negative,2026-08-23,Negative
+1930,"In recent activities, the laboratory Some changes would help, but I would keep the current arrangement.",Laboratory,Positive,2026-04-26,Positive
+1532,"From the latest sessions, the course content provides materials relevant to the programme particularly when several activities occur together.",Course Content,Positive,2026-09-27,Positive
+683,"During the scheduled activities, the lecturer encourages students to ask questions especially when deadlines are close.",Teacher Feedback,Neutral,2026-03-22,Positive
+1896,"From my experience this term, the library offers useful assistance from library staff particularly during practical or assessment periods.",Library Facilities,Positive,2026-07-25,Positive
+2132,"From my experience this term, the laboratory follows the practical timetable which is worth reviewing.",Laboratory,Neutral,2026-05-17,Neutral
+175,"In my recent experience, the library offers useful assistance from library staff which has been noticeable recently.",Library Facilities,Positive,2026-07-02,Positive
+99,"From the latest sessions, the library The arrangement has some weaknesses, although it is still useful overall.",Library Facilities,Positive,2026-04-28,Positive
+8,"During the first few weeks, the course content connects the topics well across the semester especially during the more demanding parts of the semester.",Course Content,Positive,2026-01-06,Positive
+2079,"During the practical periods, the examination overall, I have no strong view about the way this is handled.",Examination Pattern,Neutral,2026-02-23,Neutral
+58,"Over the past few weeks, the lecturer The arrangement has strengths and weaknesses, and my view is neither positive nor negative.",Teacher Feedback,Neutral,2026-01-18,Neutral
+2127,"From my experience this term, the examination has some useful aspects, but provides unclear instructions.",Examination Pattern,Negative,2026-08-20,Negative
+2225,"From the student viewpoint, the examination provides clear instructions which can affect the learning experience.",Examination Pattern,Positive,2026-10-01,Positive
+1131,"From the activities observed, the lecturer gives useful comments on assignments which can affect the learning experience.",Teacher Feedback,Positive,2026-02-01,Positive
+1550,"For this academic session, the examination uses the instructions given before the examination particularly during the examination period.",Examination Pattern,Neutral,2026-08-19,Neutral
+404,"In recent activities, the library offers useful assistance from library staff which has been noticeable recently.",Library Facilities,Positive,2026-09-03,Positive
+740,"During the middle of the semester, the lecturer assigns work after selected topics especially for students using the service regularly.",Teacher Feedback,Neutral,2026-06-05,Neutral
+1208,"In recent activities, the laboratory has equipment that is useful for practical work which affects how easily students can work.",Laboratory,Positive,2026-08-24,Positive
+2224,"Based on recent sessions, the lecturer encourages students to ask questions particularly during the examination period.",Teacher Feedback,Positive,2026-09-10,Positive
+2297,"During the assessment period, the lecturer is not perfect, but explains difficult ideas clearly.",Teacher Feedback,Positive,2026-03-04,Positive
+477,"From my experience this term, the examination uses the instructions given before the examination especially when several students need the same resource.",Examination Pattern,Neutral,2026-03-12,Neutral
+1319,"During the middle of the semester, the examination is not perfect, but uses a reasonable time allocation.",Examination Pattern,Positive,2026-10-12,Positive
+13,"During regular sessions, the examination provides clear instructions particularly during the examination period.",Examination Pattern,Positive,2026-07-16,Positive
+103,"In recent activities, the course content includes the scheduled topics which can affect the learning experience.",Course Content,Neutral,2026-05-24,Neutral
+712,"From what I observed, the course content The arrangement has strengths, although the problems are still significant.",Course Content,Negative,2026-04-05,Negative
+1287,"During normal teaching weeks, the course content connects the topics well across the semester especially for students who need extra clarification.",Course Content,Positive,2026-08-06,Positive
+2103,"For this academic session, the library lacks updated textbooks especially for students using the service regularly.",Library Facilities,Negative,2026-04-19,Negative
+2927,"From the latest sessions, the laboratory has equipment that is useful for practical work which is noticeable in busy weeks.",Laboratory,Positive,2026-09-06,Positive
+1070,"In the present semester, the lecturer gives useful comments on assignments which has been noticeable recently.",Teacher Feedback,Positive,2026-09-02,Positive
+1671,"Based on classroom activities, the examination Not everything works perfectly, but I am generally satisfied.",Examination Pattern,Positive,2026-07-09,Positive
+781,"During the assessment period, the course content is not perfect, but uses examples that make concepts easier to understand.",Course Content,Positive,2026-05-13,Positive
+1819,"From what I observed, the lecturer leaves questions unanswered particularly in the later weeks.",Teacher Feedback,Negative,2026-02-11,Negative
+911,"From what I observed, the examination includes questions outside the taught material especially during difficult topics.",Examination Pattern,Negative,2026-10-18,Negative
+2803,"Across the semester, the examination provides clear instructions especially for students who need extra clarification.",Examination Pattern,Positive,2026-01-15,Positive
+1304,"During the current academic session, the library has relevant textbooks particularly when the workload is high.",Library Facilities,Positive,2026-06-02,Positive
+1135,"During the last few classes, the library has too few seats for students particularly during the examination period.",Library Facilities,Negative,2026-05-26,Negative
+2896,"In recent activities, the laboratory has equipment that is useful for practical work which can affect the learning experience.",Laboratory,Positive,2026-03-25,Positive
+1132,"From what I observed, the examination the service has been difficult despite a few useful parts.",Examination Pattern,Negative,2026-10-11,Negative
+2544,"From the activities observed, the laboratory provides a suitable environment especially for students using the service regularly.",Laboratory,Positive,2026-03-14,Positive
+2433,"During the current course, the laboratory I would be comfortable keeping the current arrangement.",Laboratory,Positive,2026-03-06,Positive
+2704,"For many students, the laboratory Some parts could be improved, but the overall experience is satisfactory.",Laboratory,Positive,2026-01-03,Positive
+2353,"During recent classes, the course content includes the scheduled topics especially when several students need the same resource.",Course Content,Neutral,2026-01-07,Neutral
+1565,"For many students, the library provides a comfortable reading environment particularly when the workload is high.",Library Facilities,Positive,2026-07-20,Positive
+1041,"During the assessment period, the lecturer has some useful aspects, but does not give enough feedback.",Teacher Feedback,Negative,2026-06-06,Negative
+2246,"From the latest sessions, the examination provides unclear instructions particularly when students need quick support.",Examination Pattern,Negative,2026-05-26,Negative
+2357,"In my recent experience, the library Not everything works perfectly, but I am generally satisfied.",Library Facilities,Positive,2026-04-08,Positive
+2045,"In the current semester, the library has relevant textbooks which may influence student satisfaction.",Library Facilities,Positive,2026-03-03,Positive
+112,"In recent activities, the library offers useful assistance from library staff which is worth reviewing.",Library Facilities,Positive,2026-07-04,Positive
+614,"During the scheduled activities, the examination uses the instructions given before the examination especially for students who need extra clarification.",Examination Pattern,Neutral,2026-01-06,Neutral
+520,"Based on recent sessions, the laboratory I would be comfortable keeping the current arrangement.",Laboratory,Positive,2026-08-13,Positive
+1900,"From what I observed, the library provides a comfortable reading environment particularly in the later weeks.",Library Facilities,Positive,2026-10-14,Positive
+2642,"During the practical periods, the course content provides materials relevant to the programme which affects how easily students can work.",Course Content,Positive,2026-07-28,Positive
+1174,"In the present semester, the library has relevant textbooks particularly when students need quick support.",Library Facilities,Neutral,2026-09-07,Positive
+1778,"From recent observations, the course content The arrangement has some weaknesses, although it is still useful overall.",Course Content,Positive,2026-10-13,Positive
+1273,"During regular sessions, the lecturer is not perfect, but explains difficult ideas clearly.",Teacher Feedback,Positive,2026-05-16,Positive
+576,"From what I observed, the laboratory supports the practical exercises which has been consistent this term.",Laboratory,Positive,2026-07-05,Positive
+960,"In the current semester, the examination provides clear instructions especially for students using the service regularly.",Examination Pattern,Positive,2026-03-02,Positive
+1461,"In the recent weeks, the library provides a comfortable reading environment which is worth reviewing.",Library Facilities,Positive,2026-05-24,Positive
+1888,"In the current semester, the library has relevant textbooks particularly during practical or assessment periods.",Library Facilities,Positive,2026-04-10,Positive
+1317,"In recent activities, the library is not perfect, but provides a comfortable reading environment.",Library Facilities,Positive,2026-10-17,Positive
+2910,"From the student viewpoint, the laboratory supports the practical exercises especially during difficult topics.",Laboratory,Positive,2026-05-18,Positive
+1468,"During the middle of the semester, the laboratory has systems that students use for exercises particularly when the workload is high.",Laboratory,Neutral,2026-03-08,Neutral
+2794,"In the current semester, the library the experience has been better than I expected.",Library Facilities,Positive,2026-03-26,Positive
+2654,"Based on classroom activities, the library the experience has been better than I expected.",Library Facilities,Positive,2026-07-24,Positive
+747,"During the last few classes, the laboratory has some useful aspects, but has too few working computers.",Laboratory,Negative,2026-02-25,Negative
+1407,"During the current course, the library has relevant textbooks which affects how easily students can work.",Library Facilities,Positive,2026-04-08,Positive
+1321,"Over the past few weeks, the library I can work effectively with the current arrangement.",Library Facilities,Positive,2026-09-16,Positive
+2463,"During normal teaching weeks, the laboratory there is enough support for me to complete the work.",Laboratory,Positive,2026-08-27,Positive
+2999,"During the current academic session, the laboratory Not everything works perfectly, but I am generally satisfied.",Laboratory,Positive,2026-09-03,Positive
+1303,"During normal teaching weeks, the laboratory the arrangement has been disappointing overall.",Laboratory,Negative,2026-07-25,Positive
+1731,"Across the semester, the library provides a comfortable reading environment which affects how easily students can work.",Library Facilities,Positive,2026-07-02,Positive
+119,"From the feedback I have seen, the library provides a comfortable reading environment particularly during practical or assessment periods.",Library Facilities,Positive,2026-10-16,Positive
+2552,"From what I observed, the course content includes the scheduled topics particularly when several activities occur together.",Course Content,Neutral,2026-05-14,Neutral
+235,"Based on recent sessions, the laboratory provides a suitable environment particularly when students need quick support.",Laboratory,Positive,2026-08-28,Positive
+2068,"Based on recent sessions, the course content is not perfect, but provides materials relevant to the programme.",Course Content,Positive,2026-05-16,Positive
+1917,"In the current semester, the laboratory overall, I am dissatisfied with the way this is handled.",Laboratory,Negative,2026-04-22,Negative
+2628,"Over the past few weeks, the course content There are some useful parts, but the overall experience is unsatisfactory.",Course Content,Positive,2026-04-10,Negative
+718,"During normal teaching weeks, the course content Some parts work as expected, but I am generally dissatisfied.",Course Content,Positive,2026-09-20,Negative
+1519,"During the current academic session, the lecturer uses the standard course notes particularly when several activities occur together.",Teacher Feedback,Neutral,2026-08-17,Neutral
+853,"From my experience this term, the lecturer encourages students to ask questions particularly during the examination period.",Teacher Feedback,Positive,2026-07-15,Positive
+122,"In the current semester, the course content provides materials relevant to the programme especially when several students need the same resource.",Course Content,Positive,2026-04-02,Positive
+1467,"During the middle of the semester, the examination has both useful and difficult aspects, and covers several course units.",Examination Pattern,Neutral,2026-05-03,Neutral
+2475,"During the last few classes, the course content Some parts could be improved, but the overall experience is satisfactory.",Course Content,Positive,2026-09-21,Positive
+526,"Based on classroom activities, the examination has some useful aspects, but provides unclear instructions.",Examination Pattern,Negative,2026-05-18,Negative
+1425,"In my recent experience, the course content There are benefits, but I would change the current arrangement.",Course Content,Negative,2026-09-14,Negative
+2630,"Across the semester, the lecturer encourages students to ask questions which is noticeable in busy weeks.",Teacher Feedback,Positive,2026-10-04,Positive
+830,"During the practical periods, the examination covers several course units especially for students attending every session.",Examination Pattern,Neutral,2026-10-22,Neutral
+1775,"Over the past few weeks, the examination I can work effectively with the current arrangement.",Examination Pattern,Positive,2026-01-16,Positive
+1862,"During recent classes, the library allows students to borrow books through the normal process especially for students using the service regularly.",Library Facilities,Neutral,2026-01-20,Neutral
+408,"During normal teaching weeks, the examination includes questions outside the taught material which can affect the learning experience.",Examination Pattern,Negative,2026-07-13,Negative
+807,"While completing the course, the lecturer There are useful and difficult parts, so I would describe the experience as mixed.",Teacher Feedback,Neutral,2026-03-07,Neutral
+2308,"During the first few weeks, the library has relevant textbooks which may influence student satisfaction.",Library Facilities,Positive,2026-07-11,Positive
+1259,"In my recent experience, the examination uses a reasonable time allocation which may influence student satisfaction.",Examination Pattern,Positive,2026-01-17,Positive
+2154,"From my experience this term, the library Some changes would help, but I would keep the current arrangement.",Library Facilities,Positive,2026-08-04,Positive
+1305,"During the current course, the library I would be comfortable keeping the current arrangement.",Library Facilities,Positive,2026-07-12,Positive
+2746,"Based on classroom activities, the library There are useful and difficult parts, so I would describe the experience as mixed.",Library Facilities,Neutral,2026-02-09,Neutral
+2705,"During recent classes, the examination Some changes would help, but I would keep the current arrangement.",Examination Pattern,Positive,2026-08-22,Positive
+1460,"During the last few classes, the laboratory follows the practical timetable particularly during the examination period.",Laboratory,Neutral,2026-09-24,Neutral
+2143,"During normal teaching weeks, the laboratory Some parts could be improved, but the overall experience is satisfactory.",Laboratory,Positive,2026-10-05,Positive
+757,"During the scheduled activities, the examination the arrangement has been acceptable and generally helpful.",Examination Pattern,Positive,2026-04-11,Positive
+2336,"From the feedback I have seen, the examination I can work effectively with the current arrangement.",Examination Pattern,Positive,2026-01-15,Positive
+1517,"From the student viewpoint, the library provides a comfortable reading environment especially for students who need extra clarification.",Library Facilities,Positive,2026-03-20,Positive
+262,"In my recent experience, the lecturer has both useful and difficult aspects, and assigns work after selected topics.",Teacher Feedback,Negative,2026-07-14,Neutral
+1584,"From recent observations, the library is not perfect, but has relevant textbooks.",Library Facilities,Positive,2026-06-17,Positive
+64,"During recent classes, the examination uses a reasonable time allocation which is worth reviewing.",Examination Pattern,Positive,2026-07-11,Positive
+386,"During recent classes, the lecturer encourages students to ask questions particularly when the class is large.",Teacher Feedback,Positive,2026-07-28,Positive
+1647,"From recent observations, the examination Some changes would help, but I would keep the current arrangement.",Examination Pattern,Positive,2026-09-08,Positive
+167,"From the activities observed, the lecturer Some changes would help, but I would keep the current arrangement.",Teacher Feedback,Positive,2026-07-17,Positive
+2868,"During the assessment period, the course content Some parts work as expected, but I am generally dissatisfied.",Course Content,Negative,2026-08-14,Negative
+78,"During the assessment period, the examination provides clear instructions which has been noticeable recently.",Examination Pattern,Positive,2026-04-14,Positive
+1723,"From the feedback I have seen, the laboratory has equipment problems that interrupt practical sessions which has been consistent this term.",Laboratory,Negative,2026-10-26,Negative
+2316,"During the assessment period, the lecturer leaves questions unanswered particularly during the examination period.",Teacher Feedback,Negative,2026-06-14,Negative
+145,"From the feedback I have seen, the lecturer The arrangement has strengths and weaknesses, and my view is neither positive nor negative.",Teacher Feedback,Neutral,2026-01-09,Neutral
+187,"For many students, the laboratory has equipment that is useful for practical work especially for students using the service regularly.",Laboratory,Positive,2026-09-12,Positive
+134,"From my experience this term, the course content contains parts that need updating especially when deadlines are close.",Course Content,Negative,2026-03-14,Negative
+636,"In the current semester, the course content is not perfect, but uses examples that make concepts easier to understand.",Course Content,Positive,2026-03-28,Positive
+632,"From what I observed, the laboratory Some changes would help, but I would keep the current arrangement.",Laboratory,Positive,2026-08-03,Positive
+570,"From the latest sessions, the laboratory follows the practical timetable especially for students using the service regularly.",Laboratory,Neutral,2026-04-18,Neutral
+234,"In the recent weeks, the course content connects the topics well across the semester which has been consistent this term.",Course Content,Positive,2026-03-05,Positive
+367,"During the practical periods, the library allows students to borrow books through the normal process especially during difficult topics.",Library Facilities,Neutral,2026-06-07,Neutral
+2850,"In the current semester, the examination provides clear instructions which may influence student satisfaction.",Examination Pattern,Positive,2026-01-01,Positive
+679,"While completing the course, the examination uses a time allocation that is too short particularly in the later weeks.",Examination Pattern,Negative,2026-09-06,Negative
+644,"In recent activities, the library offers useful assistance from library staff particularly when students need quick support.",Library Facilities,Positive,2026-01-19,Positive
+1826,"During the scheduled activities, the course content connects the topics well across the semester which can affect the learning experience.",Course Content,Positive,2026-09-15,Positive
+1146,"In the present semester, the examination the arrangement has been acceptable and generally helpful.",Examination Pattern,Positive,2026-07-07,Positive
+2268,"During the current academic session, the laboratory has systems that students use for exercises particularly when the workload is high.",Laboratory,Neutral,2026-10-27,Neutral
+2047,"Across the semester, the library is used during the stated hours which is worth reviewing.",Library Facilities,Neutral,2026-06-20,Neutral
+1356,"From the latest sessions, the examination reflects what was emphasised in class which affects how easily students can work.",Examination Pattern,Positive,2026-04-26,Positive
+2633,"During the scheduled activities, the laboratory provides a suitable environment particularly during practical or assessment periods.",Laboratory,Positive,2026-06-20,Positive
+1787,"Based on recent sessions, the library Some parts could be improved, but the overall experience is satisfactory.",Library Facilities,Positive,2026-07-25,Positive
+318,"For this academic session, the laboratory supports the practical exercises which may influence student satisfaction.",Laboratory,Positive,2026-02-09,Positive
+626,"In recent activities, the lecturer encourages students to ask questions which affects how easily students can work.",Teacher Feedback,Positive,2026-06-03,Positive
+2105,"During normal teaching weeks, the examination reflects what was emphasised in class especially during difficult topics.",Examination Pattern,Positive,2026-06-10,Positive
+1933,"In the recent weeks, the course content connects the topics well across the semester especially when several students need the same resource.",Course Content,Positive,2026-05-07,Positive
+725,"During the middle of the semester, the lecturer There are both advantages and limitations, with no strong preference either way.",Teacher Feedback,Neutral,2026-03-18,Neutral
+959,"In the current semester, the lecturer the arrangement has been acceptable and generally helpful.",Teacher Feedback,Positive,2026-09-20,Positive
+2768,"Based on classroom activities, the lecturer There are useful and difficult parts, so I would describe the experience as mixed.",Teacher Feedback,Neutral,2026-04-22,Neutral
+2466,"During the current course, the examination Not everything works perfectly, but I am generally satisfied.",Examination Pattern,Positive,2026-06-08,Positive
+982,"During the current academic session, the course content is not perfect, but uses examples that make concepts easier to understand.",Course Content,Positive,2026-01-21,Positive
+2514,"In the present semester, the lecturer The arrangement has some weaknesses, although it is still useful overall.",Teacher Feedback,Positive,2026-10-19,Positive
+2645,"For many students, the library allows students to borrow books through the normal process which can affect the learning experience.",Library Facilities,Neutral,2026-08-14,Neutral
+1902,"Based on classroom activities, the course content includes the scheduled topics particularly when the workload is high.",Course Content,Neutral,2026-08-12,Neutral
+2811,"From what I observed, the laboratory is not perfect, but provides a suitable environment.",Laboratory,Positive,2026-07-22,Positive
+1124,"During the current course, the library offers useful assistance from library staff especially when several students need the same resource.",Library Facilities,Positive,2026-01-01,Positive
+255,"During the first few weeks, the course content has both useful and difficult aspects, and includes the scheduled topics.",Course Content,Neutral,2026-01-18,Neutral
+209,"From what I observed, the laboratory Some parts could be improved, but the overall experience is satisfactory.",Laboratory,Positive,2026-06-14,Positive
+2955,"From the feedback I have seen, the course content has some useful aspects, but gives little attention to some important concepts.",Course Content,Negative,2026-07-09,Negative
+2128,"In the present semester, the library allows students to borrow books through the normal process particularly in the later weeks.",Library Facilities,Neutral,2026-02-01,Neutral
+2764,"While completing the course, the course content has some useful aspects, but uses examples that do not explain harder topics.",Course Content,Negative,2026-03-09,Negative
+1824,"Across the semester, the library has relevant textbooks especially for students who need extra clarification.",Library Facilities,Positive,2026-05-06,Positive
+1444,"From the activities observed, the course content connects the topics well across the semester particularly when the workload is high.",Course Content,Positive,2026-03-22,Positive
+1771,"During the first few weeks, the lecturer the small issues have not outweighed the benefits.",Teacher Feedback,Positive,2026-02-12,Positive
+2601,"During the practical periods, the library has both useful and difficult aspects, and allows students to borrow books through the normal process.",Library Facilities,Neutral,2026-09-22,Neutral
+789,"In recent activities, the library offers useful assistance from library staff particularly when several activities occur together.",Library Facilities,Positive,2026-10-23,Positive
+1065,"From the feedback I have seen, the examination is not perfect, but uses a reasonable time allocation.",Examination Pattern,Positive,2026-08-07,Positive
+2503,"From my experience this term, the library offers useful assistance from library staff which has been consistent this term.",Library Facilities,Positive,2026-06-13,Positive
+1455,"Over the past few weeks, the library allows students to borrow books through the normal process which is worth reviewing.",Library Facilities,Neutral,2026-05-22,Neutral
+2082,"During the assessment period, the library has relevant textbooks which has been noticeable recently.",Library Facilities,Positive,2026-02-13,Positive
+1622,"During recent classes, the laboratory Some parts could be improved, but the overall experience is satisfactory.",Laboratory,Positive,2026-01-04,Positive
+2106,"In my recent experience, the lecturer Some changes would help, but I would keep the current arrangement.",Teacher Feedback,Positive,2026-08-17,Positive
+2026,"In recent activities, the library allows students to borrow books through the normal process particularly in the later weeks.",Library Facilities,Neutral,2026-10-02,Neutral
+756,"During normal teaching weeks, the library lists available resources in the catalogue particularly during practical or assessment periods.",Library Facilities,Neutral,2026-05-08,Neutral
+2675,"For this academic session, the lecturer encourages students to ask questions which affects how easily students can work.",Teacher Feedback,Positive,2026-07-27,Positive
+1674,"From recent observations, the examination reflects what was emphasised in class especially when deadlines are close.",Examination Pattern,Positive,2026-06-18,Positive
+1028,"During the last few classes, the library the arrangement has been acceptable and generally helpful.",Library Facilities,Positive,2026-03-28,Positive
+2062,"During the first few weeks, the laboratory provides a suitable environment particularly during the examination period.",Laboratory,Positive,2026-06-05,Positive
+2610,"During the last few classes, the lecturer Some parts work well and others do not, so there is no clear overall effect.",Teacher Feedback,Neutral,2026-01-24,Neutral
+1657,"During regular sessions, the library lists available resources in the catalogue especially when several students need the same resource.",Library Facilities,Neutral,2026-09-18,Neutral
+1783,"Over the past few weeks, the laboratory is used during scheduled practical periods which may influence student satisfaction.",Laboratory,Neutral,2026-01-27,Neutral
+1168,"During the current course, the library allows students to borrow books through the normal process particularly in the later weeks.",Library Facilities,Neutral,2026-02-08,Neutral
+2464,"Over the past few weeks, the lecturer encourages students to ask questions which affects how easily students can work.",Teacher Feedback,Positive,2026-10-15,Positive
+709,"During the first few weeks, the library There are useful and difficult parts, so I would describe the experience as mixed.",Library Facilities,Neutral,2026-06-11,Neutral
+2861,"During normal teaching weeks, the course content Some changes would help, but I would keep the current arrangement.",Course Content,Positive,2026-01-19,Positive
+274,"From the latest sessions, the examination reflects what was emphasised in class particularly in the later weeks.",Examination Pattern,Positive,2026-06-11,Positive
+2100,"Based on classroom activities, the lecturer explains difficult ideas clearly particularly when students need quick support.",Teacher Feedback,Positive,2026-02-06,Positive
+369,"From the activities observed, the examination uses a reasonable time allocation which affects how easily students can work.",Examination Pattern,Positive,2026-06-04,Positive
+1829,"From the feedback I have seen, the library There are useful and difficult parts, so I would describe the experience as mixed.",Library Facilities,Neutral,2026-07-19,Neutral
+2502,"For this academic session, the library Some parts work well and others do not, so there is no clear overall effect.",Library Facilities,Neutral,2026-06-22,Neutral
+2002,"During the middle of the semester, the laboratory provides a suitable environment particularly during the examination period.",Laboratory,Positive,2026-10-21,Positive
+1014,"Across the semester, the lecturer Some changes would help, but I would keep the current arrangement.",Teacher Feedback,Positive,2026-01-14,Positive
+2666,"From the feedback I have seen, the library is used during the stated hours especially during difficult topics.",Library Facilities,Neutral,2026-05-21,Neutral
+777,"During the current course, the library allows students to borrow books through the normal process which is noticeable in busy weeks.",Library Facilities,Neutral,2026-01-02,Neutral
+311,"From the feedback I have seen, the examination covers several course units which has been noticeable recently.",Examination Pattern,Neutral,2026-01-12,Neutral
+269,"Over the past few weeks, the library has relevant textbooks especially during the more demanding parts of the semester.",Library Facilities,Positive,2026-02-02,Positive
+1347,"During the assessment period, the course content contains parts that need updating which is worth reviewing.",Course Content,Negative,2026-03-01,Negative
+393,"While completing the course, the course content uses examples that do not explain harder topics particularly when several activities occur together.",Course Content,Negative,2026-07-14,Negative
+1606,"From the latest sessions, the library offers useful assistance from library staff particularly when students need quick support.",Library Facilities,Positive,2026-06-04,Positive
+2821,"In the current semester, the lecturer Some changes would help, but I would keep the current arrangement.",Teacher Feedback,Positive,2026-02-13,Positive
+2563,"For this academic session, the examination uses the instructions given before the examination especially during the more demanding parts of the semester.",Examination Pattern,Neutral,2026-06-08,Neutral

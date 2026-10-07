@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block title %}Upload Data{% endblock %}
+{% block content %}
+<div class="page-heading">
+    <div>
+        <h1>Upload Data</h1>
+        <p>Upload a CSV file containing student feedback for analysis.</p>
+    </div>
+</div>
+
+<div class="upload-layout">
+    <div class="card-panel upload-card">
+        <div class="upload-icon"><i class="bi bi-cloud-arrow-up"></i></div>
+        <h2>Upload Student Feedback CSV</h2>
+        <p class="muted">Select a CSV file containing new, unlabelled student feedback.</p>
+        <form method="post" enctype="multipart/form-data">
+            <label class="drop-zone" for="csvFile">
+                <i class="bi bi-file-earmark-spreadsheet"></i>
+                <strong>Choose CSV file</strong>
+                <span id="fileName">No file selected</span>
+                <input id="csvFile" name="file" type="file" accept=".csv,text/csv" required>
+            </label>
+            <button class="btn-primary-custom w-100 mt-3" type="submit">
+                <i class="bi bi-upload"></i> Upload and Analyse
+            </button>
+        </form>
+    </div>
+
+    <div class="card-panel requirements-card">
+        <h3><i class="bi bi-info-circle"></i> Required Format</h3>
+        <p>Your CSV should contain these columns:</p>
+        <div class="column-list">
+            {% for col in ["ID", "Feedback Text", "Category", "Date"] %}
+            <div><i class="bi bi-check2-circle"></i>{{ col }}</div>
+            {% endfor %}
+        </div>
+        <div class="upload-note">
+            <i class="bi bi-magic"></i>
+            <span><strong>Sentiment is predicted automatically.</strong> You do not need to include a Sentiment column.</span>
+        </div>
+        <hr>
+        <h4>Approved Categories</h4>
+        <ul>
+            {% for c in categories %}<li>{{ c }}</li>{% endfor %}
+        </ul>
+        <h4>File Limit</h4>
+        <p class="muted">Maximum upload size: 10 MB. CSV files only.</p>
+    </div>
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+document.getElementById('csvFile').addEventListener('change', function() {
+    document.getElementById('fileName').textContent =
+        this.files.length ? this.files[0].name : 'No file selected';
+});
+</script>
+{% endblock %}

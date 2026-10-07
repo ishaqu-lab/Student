@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% block title %}View Analysis{% endblock %}
+{% block content %}
+<div class="page-heading">
+    <div>
+        <h1>View Analysis</h1>
+        <p>Explore classified student feedback.</p>
+    </div>
+</div>
+
+<div class="card-panel">
+    <form method="get" class="analysis-filters">
+        <div class="filter-field">
+            <label>Category</label>
+            <select name="category" class="form-select">
+                <option>All Categories</option>
+                {% for c in categories %}<option {% if category == c %}selected{% endif %}>{{ c }}</option>{% endfor %}
+            </select>
+        </div>
+        <div class="filter-field">
+            <label>Sentiment</label>
+            <select name="sentiment" class="form-select">
+                <option>All Sentiments</option>
+                {% for s in sentiments %}<option {% if sentiment == s %}selected{% endif %}>{{ s }}</option>{% endfor %}
+            </select>
+        </div>
+        <div class="filter-field search-field">
+            <label>Search</label>
+            <input name="search" value="{{ search }}" class="form-control" placeholder="Search feedback...">
+        </div>
+        <button class="btn-primary-custom filter-submit"><i class="bi bi-search"></i> Filter</button>
+    </form>
+</div>
+
+<div class="card-panel mt-4">
+    <div class="card-title-row">
+        <div><h3>Feedback Results</h3><span>{{ total }} matching records</span></div>
+    </div>
+    <div class="table-responsive">
+        <table class="table feedback-table align-middle">
+            <thead><tr><th>ID</th><th>Feedback Text</th><th>Category</th><th>Sentiment</th><th>Date</th></tr></thead>
+            <tbody>
+            {% for row in rows %}
+            <tr>
+                <td>#{{ row.ID }}</td>
+                <td class="feedback-text">{{ row["Feedback Text"] }}</td>
+                <td><span class="category-badge">{{ row.Category }}</span></td>
+                <td><span class="sentiment-badge {{ row.Sentiment|lower }}">{{ row.Sentiment }}</span></td>
+                <td>{{ row.Date }}</td>
+            </tr>
+            {% else %}
+            <tr><td colspan="5" class="text-center py-5 muted">No feedback matches the selected filters.</td></tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% if total_pages > 1 %}
+    <nav class="pagination-wrap">
+        <a class="page-link-custom {% if page == 1 %}disabled{% endif %}"
+           href="{{ url_for('analysis', category=category, sentiment=sentiment, search=search, page=page-1) }}">Previous</a>
+        <span>Page {{ page }} of {{ total_pages }}</span>
+        <a class="page-link-custom {% if page == total_pages %}disabled{% endif %}"
+           href="{{ url_for('analysis', category=category, sentiment=sentiment, search=search, page=page+1) }}">Next</a>
+    </nav>
+    {% endif %}
+</div>
+{% endblock %}

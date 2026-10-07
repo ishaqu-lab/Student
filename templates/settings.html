@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}Settings{% endblock %}
+{% block content %}
+<div class="page-heading">
+    <div><h1>Settings</h1><p>System and model configuration information.</p></div>
+</div>
+<div class="settings-grid">
+    <div class="card-panel">
+        <h3>Analysis Configuration</h3>
+        <div class="setting-row"><span>Vectorisation</span><strong>TF-IDF</strong></div>
+        <div class="setting-row"><span>Classifier</span><strong>Multinomial Naïve Bayes</strong></div>
+        <div class="setting-row"><span>Training Split</span><strong>80 / 20</strong></div>
+        <div class="setting-row"><span>Text Processing</span><strong>NLTK</strong></div>
+        <div class="setting-row"><span>Maximum Upload</span><strong>10 MB</strong></div>
+    </div>
+    <div class="card-panel">
+        <h3>Approved Categories</h3>
+        {% for c in categories %}
+        <div class="setting-row"><span>{{ loop.index }}</span><strong>{{ c }}</strong></div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

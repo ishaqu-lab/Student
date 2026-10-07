@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-5" style="max-width: 450px;">
+    <div class="card shadow-sm border-0">
+        <div class="card-body p-4">
+            <h3 class="card-title text-center mb-3">Reset Password</h3>
+            <p class="text-muted small text-center mb-4">Enter your registered email address to receive password reset instructions.</p>
+            
+            <form method="POST" action="{{ url_for('reset_request') }}">
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email Address</label>
+                    <input type="email" name="email" id="email" class="form-control" required autofocus>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Send Reset Email</button>
+            </form>
+            
+            <p class="text-center mt-3 mb-0 small">
+                <a href="{{ url_for('login') }}" class="text-decoration-none">Back to Login</a>
+            </p>
+        </div>
+    </div>
+</div>
+{% endblock %}

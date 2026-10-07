@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}Reports{% endblock %}
+{% block content %}
+<div class="page-heading">
+    <div><h1>Reports</h1><p>Summary of sentiment analysis and model performance.</p></div>
+    <a href="{{ url_for('download_report') }}" class="btn-primary-custom"><i class="bi bi-download"></i> Download Report</a>
+</div>
+
+<div class="stats-grid three">
+    <div class="mini-stat"><span>Total Feedback</span><strong>{{ "{:,}".format(data.total) }}</strong><i class="bi bi-chat-left-text"></i></div>
+    <div class="mini-stat"><span>Positive</span><strong>{{ data.percentages.Positive }}%</strong><i class="bi bi-emoji-smile"></i></div>
+    <div class="mini-stat"><span>Negative</span><strong>{{ data.percentages.Negative }}%</strong><i class="bi bi-emoji-frown"></i></div>
+</div>
+
+<div class="card-panel mt-4">
+    <div class="card-title-row"><div><h3>Model Performance</h3><span>Evaluation generated from the test set</span></div></div>
+    {% set m = metadata.get('metrics', {}) %}
+    <div class="metrics-grid">
+        <div><span>Accuracy</span><strong>{{ "%.2f"|format(m.get('accuracy',0)*100) }}%</strong></div>
+        <div><span>Precision</span><strong>{{ "%.2f"|format(m.get('precision',0)*100) }}%</strong></div>
+        <div><span>Recall</span><strong>{{ "%.2f"|format(m.get('recall',0)*100) }}%</strong></div>
+        <div><span>F1-Score</span><strong>{{ "%.2f"|format(m.get('f1',0)*100) }}%</strong></div>
+        <div><span>5-Fold CV</span><strong>{{ "%.2f"|format(m.get('cv_mean_accuracy',0)*100) }}%</strong></div>
+    </div>
+</div>
+
+<div class="card-panel mt-4">
+    <div class="card-title-row"><div><h3>Category Sentiment Comparison</h3></div></div>
+    <canvas id="categoryChart" height="105"></canvas>
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+const categoryData = {{ data.category_data|tojson }};
+new Chart(document.getElementById('categoryChart'), {
+    type: 'bar',
+    data: {
+        labels: categoryData.map(x => x.category),
+        datasets: [
+            {label:'Positive', data:categoryData.map(x=>x.Positive)},
+            {label:'Neutral', data:categoryData.map(x=>x.Neutral)},
+            {label:'Negative', data:categoryData.map(x=>x.Negative)}
+        ]
+    },
+    options: {responsive:true, scales:{y:{beginAtZero:true}}}
+});
+</script>
+{% endblock %}

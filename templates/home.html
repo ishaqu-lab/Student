@@ -1,0 +1,284 @@
+{% extends "base.html" %}
+
+{% block title %}Home - Student Feedback Analysis System{% endblock %}
+
+{% block content %}
+
+<div class="home-page">
+
+    <!-- HERO SECTION -->
+    <section class="home-hero">
+
+        <div class="home-hero-content">
+
+            <span class="home-badge">
+                <i class="bi bi-stars"></i>
+                Automated Feedback Analysis
+            </span>
+
+            <h1>
+                Student Feedback
+                <span>Analysis System</span>
+            </h1>
+
+            <p>
+                Analyse student feedback automatically using
+                Natural Language Processing and Machine Learning.
+                Upload your feedback data and obtain meaningful
+                sentiment insights for academic decision-making.
+            </p>
+
+            <div class="home-actions">
+
+                <a
+                    href="{{ url_for('upload') }}"
+                    class="home-btn home-btn-primary"
+                >
+                    <i class="bi bi-cloud-arrow-up-fill"></i>
+                    Upload Feedback
+                </a>
+
+                <a
+                    href="{{ url_for('dashboard') }}"
+                    class="home-btn home-btn-secondary"
+                >
+                    <i class="bi bi-grid-1x2-fill"></i>
+                    View Dashboard
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <div class="home-hero-icon">
+
+            <div class="hero-icon-circle">
+                <i class="bi bi-bar-chart-line-fill"></i>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- HOW IT WORKS -->
+    <section class="home-section">
+
+        <div class="home-section-heading">
+
+            <span>HOW IT WORKS</span>
+
+            <h2>
+                Analyse Feedback in Three Simple Steps
+            </h2>
+
+            <p>
+                The system provides a simple workflow for
+                processing and analysing student feedback.
+            </p>
+
+        </div>
+
+
+        <div class="home-steps">
+
+            <div class="home-step-card">
+
+                <div class="home-step-number">
+                    01
+                </div>
+
+                <div class="home-step-icon">
+                    <i class="bi bi-file-earmark-arrow-up-fill"></i>
+                </div>
+
+                <h3>
+                    Upload Data
+                </h3>
+
+                <p>
+                    Upload a CSV file containing student
+                    feedback records.
+                </p>
+
+            </div>
+
+
+            <div class="home-step-card">
+
+                <div class="home-step-number">
+                    02
+                </div>
+
+                <div class="home-step-icon">
+                    <i class="bi bi-cpu-fill"></i>
+                </div>
+
+                <h3>
+                    Analyse Feedback
+                </h3>
+
+                <p>
+                    Natural Language Processing and the trained
+                    machine learning model classify the feedback.
+                </p>
+
+            </div>
+
+
+            <div class="home-step-card">
+
+                <div class="home-step-number">
+                    03
+                </div>
+
+                <div class="home-step-icon">
+                    <i class="bi bi-bar-chart-fill"></i>
+                </div>
+
+                <h3>
+                    View Results
+                </h3>
+
+                <p>
+                    Explore sentiment results, categories,
+                    statistics and generated reports.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ANALYSIS CATEGORIES -->
+    <section class="home-section home-categories-section">
+
+        <div class="home-section-heading">
+
+            <span>FEEDBACK CATEGORIES</span>
+
+            <h2>
+                What Can Be Analysed?
+            </h2>
+
+            <p>
+                The system analyses student feedback across
+                five academic areas.
+            </p>
+
+        </div>
+
+
+        <div class="home-category-grid">
+
+            <div class="home-category-card">
+                <i class="bi bi-person-workspace"></i>
+                <h3>Teacher Feedback</h3>
+                <p>
+                    Analyse student opinions about teaching,
+                    explanations and lecturer effectiveness.
+                </p>
+            </div>
+
+
+            <div class="home-category-card">
+                <i class="bi bi-book-fill"></i>
+                <h3>Course Content</h3>
+                <p>
+                    Analyse feedback concerning course materials,
+                    topics and learning content.
+                </p>
+            </div>
+
+
+            <div class="home-category-card">
+                <i class="bi bi-journal-check"></i>
+                <h3>Examination Pattern</h3>
+                <p>
+                    Analyse student feedback about examinations,
+                    questions and assessment procedures.
+                </p>
+            </div>
+
+
+            <div class="home-category-card">
+                <i class="bi bi-pc-display"></i>
+                <h3>Laboratory</h3>
+                <p>
+                    Analyse feedback about laboratory facilities,
+                    equipment and practical learning.
+                </p>
+            </div>
+
+
+            <div class="home-category-card">
+                <i class="bi bi-building"></i>
+                <h3>Library Facilities</h3>
+                <p>
+                    Analyse feedback about library resources,
+                    services and learning facilities.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- SENTIMENT -->
+    <section class="home-info-section">
+
+        <div class="home-info-card">
+
+            <div class="home-info-icon">
+                <i class="bi bi-emoji-smile-fill"></i>
+            </div>
+
+            <div>
+
+                <h2>
+                    Understand Student Sentiment
+                </h2>
+
+                <p>
+                    Feedback is classified into three sentiment
+                    categories: Positive, Neutral and Negative.
+                    This helps provide a clearer understanding
+                    of student experiences and areas requiring
+                    attention.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- FINAL CTA -->
+    <section class="home-final-cta">
+
+        <h2>
+            Ready to Analyse Student Feedback?
+        </h2>
+
+        <p>
+            Upload your feedback dataset and begin your analysis.
+        </p>
+
+        <a
+            href="{{ url_for('upload') }}"
+            class="home-btn home-btn-primary"
+        >
+            <i class="bi bi-cloud-arrow-up-fill"></i>
+            Start Analysis
+        </a>
+
+    </section>
+
+</div>
+
+{% endblock %}

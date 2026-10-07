@@ -1,0 +1,13 @@
+DATASET QUALITY NOTE
+
+This project uses a synthetic student-feedback dataset. To avoid an unrealistically perfect classifier, the dataset includes a controlled annotation-ambiguity component.
+
+- Total records: 3,000
+- Records per category: 600
+- Sentiment distribution: 1,860 Positive, 690 Neutral, 450 Negative
+- 120 records (4% of the dataset) have their sentiment label reassigned in a balanced, deterministic manner across the three classes.
+- The reassignment preserves the overall sentiment distribution and category distribution.
+- The purpose is to simulate the uncertainty that can occur when sentiment is manually labelled from short or context-dependent student comments.
+- Random seed: 42
+
+The resulting model metrics must be reported exactly as measured after training; the dataset should not be altered merely to obtain a desired score.
