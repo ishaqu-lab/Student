@@ -5,3 +5,4 @@ __pycache__/
 *.db
 uploads/*
 !uploads/.gitkeep
+nltk_data/

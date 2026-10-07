@@ -5,7 +5,6 @@ scikit-learn
 nltk
 matplotlib
 seaborn
-wordcloud
 openpyxl
 joblib
 python-dotenv
@@ -17,3 +16,4 @@ Authlib
 requests
 psycopg2-binary
 werkzeug
+reportlab==5.0.1

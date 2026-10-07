@@ -693,6 +693,7 @@ def settings():
     )
 
 @app.route("/api/dashboard")
+@login_required
 def api_dashboard():
     return jsonify(get_dashboard_data())
 

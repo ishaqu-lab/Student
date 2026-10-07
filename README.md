@@ -68,3 +68,14 @@ The training script checks for duplicate feedback text before training.
 ## Notes
 
 The project is intended for local demonstration and academic evaluation. Authentication is not included in the current demo configuration.
+
+## Render Deployment
+
+Use these commands in the Render service:
+
+- Build Command: `bash render-build.sh`
+- Start Command: `gunicorn app:app`
+
+The build command installs the dependencies, downloads the required NLTK resources into the project build, and trains `models/sentiment_model.pkl` from `data/default_dataset.csv` before Gunicorn starts.
+
+Set `DATABASE_URL` to the PostgreSQL connection string supplied by Render. Keep `SECRET_KEY` and OAuth/mail credentials in Render Environment Variables, not in Git.

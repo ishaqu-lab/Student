@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 BASE_DIR = Path(__file__).resolve().parent
-DATA_PATH = BASE_DIR / "data" / "student_feedback_dataset.csv"
+DATA_PATH = BASE_DIR / "data" / "default_dataset.csv"
 
 def main():
     df = pd.read_csv(DATA_PATH)

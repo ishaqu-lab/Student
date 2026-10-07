@@ -13,7 +13,7 @@ from sklearn.metrics import (
 from preprocess import preprocess_text, ensure_nltk_resources
 
 BASE_DIR = Path(__file__).resolve().parent
-DATA_PATH = BASE_DIR / "data" / "student_feedback_dataset.csv"
+DATA_PATH = BASE_DIR / "data" / "default_dataset.csv"
 MODEL_DIR = BASE_DIR / "models"
 REPORT_DIR = BASE_DIR / "reports"
 
